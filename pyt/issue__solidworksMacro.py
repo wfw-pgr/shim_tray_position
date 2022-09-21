@@ -7,7 +7,7 @@ import numpy as np
 
 def issue__solidworksMacro():
 
-    radius   = 0.05
+    radius   = 0.005
     maxLines = 800    # solidworks macro is very poor, cannot handle more than 1023 lines.
     macroCmd = "Set skSegment = Part.SketchManager.CreateCircle( "\
         "{0[0]:.5}, {0[1]:.5}, {0[2]:.5}, {0[3]:.5}, {0[4]:.5}, {0[5]:.5} )\n"
