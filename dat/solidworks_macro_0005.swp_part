@@ -1,800 +1,800 @@
-Set skSegment = Part.SketchManager.CreateCircle( 0.28346, -0.3344, 0.0, 0.28846, -0.3344, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.27993, -0.35402, 0.0, 0.28493, -0.35402, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.26117, -0.36077, 0.0, 0.26617, -0.36077, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.2764, -0.37364, 0.0, 0.2814, -0.37364, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.29407, -0.27553, 0.0, 0.29907, -0.27553, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.25764, -0.38039, 0.0, 0.26264, -0.38039, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.27286, -0.39326, 0.0, 0.27786, -0.39326, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.33756, -0.13144, 0.0, 0.34256, -0.13144, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.29869, -0.34727, 0.0, 0.30369, -0.34727, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.2541, -0.40001, 0.0, 0.2591, -0.40001, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.26933, -0.41288, 0.0, 0.27433, -0.41288, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.28809, -0.40613, 0.0, 0.29309, -0.40613, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.28455, -0.42575, 0.0, 0.28955, -0.42575, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.2658, -0.4325, 0.0, 0.2708, -0.4325, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.28102, -0.44537, 0.0, 0.28602, -0.44537, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.30113, -0.23629, 0.0, 0.30613, -0.23629, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.11734, 0.0095103, 0.0, 0.12234, 0.0095103, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.12087, 0.029131, 0.0, 0.12587, 0.029131, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.11381, -0.010111, 0.0, 0.11881, -0.010111, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.24241, -0.36752, 0.0, 0.24741, -0.36752, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.13963, 0.035881, 0.0, 0.14463, 0.035881, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.11649, 0.65934, 0.0, -0.11149, 0.65934, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.074048, -0.3713, 0.0, -0.069048, -0.3713, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.089273, -0.35842, 0.0, -0.084273, -0.35842, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.56184, 0.3346, 0.0, 0.56684, 0.3346, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.35844, 0.0952, 0.0, -0.35344, 0.0952, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.28258, -0.26284, 0.0, -0.27758, -0.26284, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.1975, 0.50175, 0.0, -0.1925, 0.50175, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.041154, -0.28606, 0.0, -0.036154, -0.28606, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.03762, -0.26644, 0.0, -0.03262, -0.26644, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.022395, -0.27931, 0.0, -0.017395, -0.27931, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.018861, -0.25969, 0.0, -0.013861, -0.25969, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.034086, -0.24682, 0.0, -0.029086, -0.24682, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.0036357, -0.27256, 0.0, 0.0013643, -0.27256, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.015327, -0.24007, 0.0, -0.010327, -0.24007, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.030552, -0.2272, 0.0, -0.025552, -0.2272, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.14311, -0.2677, 0.0, -0.13811, -0.2677, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.14664, -0.28732, 0.0, -0.14164, -0.28732, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.16187, -0.27445, 0.0, -0.15687, -0.27445, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.14478, 0.55151, 0.0, 0.14978, 0.55151, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.16649, -0.20272, 0.0, -0.16149, -0.20272, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.44658, -0.11056, 0.0, 0.45158, -0.11056, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.21711, 0.17386, 0.0, 0.22211, 0.17386, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.44876, -0.29327, 0.0, 0.45376, -0.29327, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.038206, 0.64161, 0.0, 0.043206, 0.64161, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.0066429, 0.29518, 0.0, -0.0016429, 0.29518, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.19809, -0.12658, 0.0, 0.20309, -0.12658, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.28534, 0.4553, 0.0, 0.29034, 0.4553, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.092807, -0.37805, 0.0, -0.087807, -0.37805, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.10803, -0.36517, 0.0, -0.10303, -0.36517, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.381, -0.22485, 0.0, -0.376, -0.22485, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.38453, -0.24448, 0.0, -0.37953, -0.24448, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.39976, -0.2316, 0.0, -0.39476, -0.2316, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.40329, -0.25123, 0.0, -0.39829, -0.25123, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.41852, -0.23835, 0.0, -0.41352, -0.23835, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.42205, -0.25798, 0.0, -0.41705, -0.25798, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.43727, -0.2451, 0.0, -0.43227, -0.2451, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.40682, -0.27085, 0.0, -0.40182, -0.27085, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.43374, -0.22548, 0.0, -0.42874, -0.22548, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.42558, -0.2776, 0.0, -0.42058, -0.2776, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.41036, -0.29047, 0.0, -0.40536, -0.29047, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.32882, 0.4545, 0.0, -0.32382, 0.4545, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.31006, 0.46125, 0.0, -0.30506, 0.46125, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.44549, -0.019205, 0.0, 0.45049, -0.019205, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.038447, 0.1186, 0.0, -0.033447, 0.1186, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.40111, -0.43393, 0.0, -0.39611, -0.43393, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.33102, 0.41669, 0.0, 0.33602, 0.41669, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.33455, 0.43631, 0.0, 0.33955, 0.43631, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.34978, 0.42344, 0.0, 0.35478, 0.42344, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.4525, -0.23223, 0.0, -0.4475, -0.23223, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.44897, -0.21261, 0.0, -0.44397, -0.21261, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.20671, -0.62087, 0.0, -0.20171, -0.62087, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.5531, -0.011543, 0.0, -0.5481, -0.011543, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.18911, 0.31057, 0.0, 0.19411, 0.31057, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.19423, 0.22768, 0.0, -0.18923, 0.22768, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.48463, 0.49031, 0.0, 0.48963, 0.49031, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.48816, 0.50993, 0.0, 0.49316, 0.50993, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.50339, 0.49706, 0.0, 0.50839, 0.49706, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.042808, 0.48401, 0.0, -0.037808, 0.48401, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.039274, 0.50363, 0.0, -0.034274, 0.50363, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.020515, 0.51038, 0.0, -0.015515, 0.51038, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.03574, 0.52326, 0.0, -0.03074, 0.52326, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.054499, 0.51651, 0.0, -0.049499, 0.51651, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.050965, 0.53613, 0.0, -0.045965, 0.53613, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.71242, 0.077923, 0.0, -0.70742, 0.077923, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.38188, -0.37238, 0.0, 0.38688, -0.37238, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.26762, -0.56939, 0.0, -0.26262, -0.56939, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.34457, -0.12, 0.0, -0.33957, -0.12, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.26138, -0.14511, 0.0, -0.25638, -0.14511, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.68768, 0.21527, 0.0, -0.68268, 0.21527, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.50068, 0.0924, 0.0, 0.50568, 0.0924, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.58034, 0.047667, 0.0, 0.58534, 0.047667, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.26226, -0.45212, 0.0, 0.26726, -0.45212, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.27749, -0.46499, 0.0, 0.28249, -0.46499, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.56132, -0.25277, 0.0, 0.56632, -0.25277, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.54468, 0.23003, 0.0, -0.53968, 0.23003, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.32852, -0.51791, 0.0, -0.32352, -0.51791, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.43463, -0.37175, 0.0, 0.43963, -0.37175, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.09416, -0.58037, 0.0, -0.08916, -0.58037, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.12705, -0.66561, 0.0, -0.12205, -0.66561, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.58817, 0.085932, 0.0, -0.58317, 0.085932, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.51043, 0.51759, 0.0, -0.50543, 0.51759, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.71519, 0.11454, 0.0, 0.72019, 0.11454, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.46938, 0.55071, 0.0, -0.46438, 0.55071, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.22226, 0.68949, 0.0, 0.22726, 0.68949, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.68062, 0.25451, 0.0, -0.67562, 0.25451, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.13907, 0.7146, 0.0, 0.14407, 0.7146, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.12031, 0.70785, 0.0, 0.12531, 0.70785, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.11678, 0.68823, 0.0, 0.12178, 0.68823, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.10155, 0.7011, 0.0, 0.10655, 0.7011, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.50692, 0.51668, 0.0, 0.51192, 0.51668, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.49169, 0.52955, 0.0, 0.49669, 0.52955, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.52214, 0.50381, 0.0, 0.52714, 0.50381, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.51861, 0.48419, 0.0, 0.52361, 0.48419, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.53737, 0.49094, 0.0, 0.54237, 0.49094, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.53384, 0.47132, 0.0, 0.53884, 0.47132, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.55259, 0.47807, 0.0, 0.55759, 0.47807, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.54906, 0.45845, 0.0, 0.55406, 0.45845, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.56782, 0.4652, 0.0, 0.57282, 0.4652, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.56429, 0.44558, 0.0, 0.56929, 0.44558, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.72546, -0.091915, 0.0, -0.72046, -0.091915, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.71024, -0.10479, 0.0, -0.70524, -0.10479, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.1189, -0.71772, 0.0, -0.1139, -0.71772, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.10014, -0.71097, 0.0, -0.095138, -0.71097, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.096604, -0.69135, 0.0, -0.091604, -0.69135, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.081379, -0.70422, 0.0, -0.076379, -0.70422, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.62165, 0.37447, 0.0, 0.62665, 0.37447, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.64716, -0.33898, 0.0, -0.64216, -0.33898, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.72334, 0.062426, 0.0, 0.72834, 0.062426, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.71981, 0.042805, 0.0, 0.72481, 0.042805, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.72655, -0.00056029, 0.0, -0.72155, -0.00056029, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.10508, 0.72072, 0.0, 0.11008, 0.72072, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.086325, 0.71397, 0.0, 0.091325, 0.71397, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.084913, -0.72384, 0.0, -0.079913, -0.72384, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.066154, -0.71709, 0.0, -0.061154, -0.71709, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.64772, 0.33974, 0.0, -0.64272, 0.33974, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.729, -0.11154, 0.0, -0.724, -0.11154, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.71377, -0.12441, 0.0, -0.70877, -0.12441, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.58305, 0.45233, 0.0, 0.58805, 0.45233, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.53414, -0.50109, 0.0, 0.53914, -0.50109, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.51538, -0.50784, 0.0, 0.52038, -0.50784, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.50015, -0.49497, 0.0, 0.50515, -0.49497, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.49662, -0.51459, 0.0, 0.50162, -0.51459, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.14482, -0.71457, 0.0, 0.14982, -0.71457, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.25243, 0.68383, 0.0, -0.24743, 0.68383, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.27119, 0.67708, 0.0, -0.26619, 0.67708, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.23367, 0.69058, 0.0, -0.22867, 0.69058, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.68577, -0.26112, 0.0, -0.68077, -0.26112, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.68223, -0.2415, 0.0, -0.67723, -0.2415, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.57378, 0.4581, 0.0, -0.56878, 0.4581, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.62189, 0.38574, 0.0, -0.61689, 0.38574, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.67407, -0.29361, 0.0, -0.66907, -0.29361, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.35117, -0.64032, 0.0, 0.35617, -0.64032, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.33241, -0.64707, 0.0, 0.33741, -0.64707, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.36993, -0.63357, 0.0, 0.37493, -0.63357, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.13766, -0.72447, 0.0, -0.13266, -0.72447, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.51184, -0.52746, 0.0, 0.51684, -0.52746, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.49308, -0.53421, 0.0, 0.49808, -0.53421, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.73362, -0.039802, 0.0, -0.72862, -0.039802, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.089859, 0.73359, 0.0, 0.094859, 0.73359, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.0711, 0.72684, 0.0, 0.0761, 0.72684, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.61836, 0.40536, 0.0, -0.61336, 0.40536, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.16358, -0.70782, 0.0, 0.16858, -0.70782, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.31719, -0.6342, 0.0, 0.32219, -0.6342, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.067566, 0.70722, 0.0, 0.072566, 0.70722, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.052341, 0.72009, 0.0, 0.057341, 0.72009, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.09343, -0.51287, 0.0, 0.09843, -0.51287, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.089896, -0.53249, 0.0, 0.094896, -0.53249, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.046664, -0.38291, 0.0, 0.051664, -0.38291, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.011793, -0.22045, 0.0, -0.0067934, -0.22045, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.027019, -0.20758, 0.0, -0.022019, -0.20758, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.098017, 0.68148, 0.0, 0.10302, 0.68148, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.098258, 0.078726, 0.0, -0.093258, 0.078726, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.12441, 0.048752, 0.0, 0.12941, 0.048752, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.14317, 0.055502, 0.0, 0.14817, 0.055502, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.45963, 0.059279, 0.0, 0.46463, 0.059279, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.028695, 0.49139, 0.0, 0.033695, 0.49139, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.04392, 0.47852, 0.0, 0.04892, 0.47852, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.040386, 0.4589, 0.0, 0.045386, 0.4589, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.059145, 0.46565, 0.0, 0.064145, 0.46565, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.055612, 0.44603, 0.0, 0.060612, 0.44603, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.074371, 0.45278, 0.0, 0.079371, 0.45278, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.070837, 0.43316, 0.0, 0.075837, 0.43316, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.089596, 0.43991, 0.0, 0.094596, 0.43991, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.086062, 0.42029, 0.0, 0.091062, 0.42029, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.10482, 0.42704, 0.0, 0.10982, 0.42704, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.067303, 0.41354, 0.0, 0.072303, 0.41354, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.016981, 0.53001, 0.0, -0.011981, 0.53001, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.16269, 0.11059, 0.0, -0.15769, 0.11059, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.39982, 0.019407, 0.0, 0.40482, 0.019407, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.54308, 0.32785, 0.0, 0.54808, 0.32785, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.54662, 0.34747, 0.0, 0.55162, 0.34747, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.082528, 0.40067, 0.0, 0.087528, 0.40067, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.063769, 0.39392, 0.0, 0.068769, 0.39392, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.098581, 0.0027602, 0.0, 0.10358, 0.0027602, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.3835, 0.12363, 0.0, 0.3885, 0.12363, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.19153, 0.63234, 0.0, -0.18653, 0.63234, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.30737, 0.18799, 0.0, 0.31237, 0.18799, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.29215, 0.20086, 0.0, 0.29715, 0.20086, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.51231, -0.27211, 0.0, -0.50731, -0.27211, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.01371, 0.25594, 0.0, -0.0087105, 0.25594, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.66347, -0.23475, 0.0, -0.65847, -0.23475, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.6787, -0.22188, 0.0, -0.6737, -0.22188, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.69746, -0.22863, 0.0, -0.69246, -0.22863, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.69392, -0.20901, 0.0, -0.68892, -0.20901, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.67516, -0.20226, 0.0, -0.67016, -0.20226, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.53955, 0.30823, 0.0, 0.54455, 0.30823, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.35305, 0.14937, 0.0, 0.35805, 0.14937, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.6309, 0.231, 0.0, 0.6359, 0.231, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.30331, -0.419, 0.0, 0.30831, -0.419, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.46772, -0.21936, 0.0, -0.46272, -0.21936, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.46419, -0.19974, 0.0, -0.45919, -0.19974, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.60045, 0.25675, 0.0, 0.60545, 0.25675, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.70105, 0.036055, 0.0, 0.70605, 0.036055, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.71628, 0.023184, 0.0, 0.72128, 0.023184, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.73503, 0.029934, 0.0, 0.74003, 0.029934, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.7315, 0.010313, 0.0, 0.7365, 0.010313, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.71274, 0.003563, 0.0, 0.71774, 0.003563, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.72797, -0.0093078, 0.0, 0.73297, -0.0093078, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.70921, -0.016058, 0.0, 0.71421, -0.016058, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.72443, -0.028929, 0.0, 0.72943, -0.028929, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.29209, -0.41305, 0.0, -0.28709, -0.41305, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.31085, -0.4198, 0.0, -0.30585, -0.4198, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.028936, 0.26881, 0.0, -0.023936, 0.26881, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.021928, -0.52025, 0.0, 0.026928, -0.52025, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.069724, 0.52938, 0.0, -0.064724, 0.52938, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.066191, 0.549, 0.0, -0.061191, 0.549, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.11407, 0.28357, 0.0, 0.11907, 0.28357, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.60154, 0.16539, 0.0, 0.60654, 0.16539, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.48539, -0.31747, 0.0, -0.48039, -0.31747, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.5281, 0.41949, 0.0, -0.5231, 0.41949, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.43869, 0.23524, 0.0, 0.44369, 0.23524, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.11157, -0.3848, 0.0, -0.10657, -0.3848, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.12679, -0.37192, 0.0, -0.12179, -0.37192, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.53163, 0.39987, 0.0, -0.52663, 0.39987, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.40933, 0.16962, 0.0, 0.41433, 0.16962, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.57622, 0.34712, 0.0, -0.57122, 0.34712, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.1654, -0.29407, 0.0, -0.1604, -0.29407, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.18062, -0.2812, 0.0, -0.17562, -0.2812, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.43978, 0.14388, 0.0, 0.44478, 0.14388, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.10565, 0.042002, 0.0, 0.11065, 0.042002, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.095047, -0.016861, 0.0, 0.10005, -0.016861, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.57975, 0.3275, 0.0, -0.57475, 0.3275, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.27307, -0.11262, 0.0, -0.26807, -0.11262, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.26953, -0.093, 0.0, -0.26453, -0.093, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.25077, -0.08625, 0.0, -0.24577, -0.08625, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.266, -0.073379, 0.0, -0.261, -0.073379, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.24704, -0.43925, 0.0, 0.25204, -0.43925, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.25873, -0.47174, 0.0, 0.26373, -0.47174, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.27395, -0.48461, 0.0, 0.27895, -0.48461, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.29271, -0.47786, 0.0, 0.29771, -0.47786, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.5159, 0.079529, 0.0, 0.5209, 0.079529, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.70567, -0.035679, 0.0, 0.71067, -0.035679, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.7209, -0.04855, 0.0, 0.7259, -0.04855, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.60911, 0.26189, 0.0, -0.60411, 0.26189, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.61265, 0.24227, 0.0, -0.60765, 0.24227, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.29916, -0.4523, 0.0, -0.29416, -0.4523, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.64201, 0.17666, 0.0, -0.63701, 0.17666, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.47786, -0.52134, 0.0, 0.48286, -0.52134, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.47433, -0.54096, 0.0, 0.47933, -0.54096, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.48955, -0.55383, 0.0, 0.49455, -0.55383, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.47079, -0.56058, 0.0, 0.47579, -0.56058, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.06262, -0.69747, 0.0, -0.05762, -0.69747, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.047394, -0.71034, 0.0, -0.042394, -0.71034, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.050928, -0.72996, 0.0, -0.045928, -0.72996, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.031885, -0.72288, 0.0, -0.026885, -0.72288, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.65261, 0.11779, 0.0, -0.64761, 0.11779, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.028588, -0.70353, 0.0, -0.023588, -0.70353, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.013355, -0.7164, 0.0, -0.0083549, -0.7164, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.016604, -0.73568, 0.0, -0.011604, -0.73568, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.0018811, -0.72925, 0.0, 0.0068811, -0.72925, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.65968, 0.078553, 0.0, -0.65468, 0.078553, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.66674, 0.039311, 0.0, -0.66174, 0.039311, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.67734, -0.019552, 0.0, -0.67234, -0.019552, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.68795, -0.078414, 0.0, -0.68295, -0.078414, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.63547, -0.37147, 0.0, -0.63047, -0.37147, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.62024, -0.38434, 0.0, -0.61524, -0.38434, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.60148, -0.37759, 0.0, -0.59648, -0.37759, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.60502, -0.39721, 0.0, -0.60002, -0.39721, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.58626, -0.39046, 0.0, -0.58126, -0.39046, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.58979, -0.41008, 0.0, -0.58479, -0.41008, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.57103, -0.40333, 0.0, -0.56603, -0.40333, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.57457, -0.42295, 0.0, -0.56957, -0.42295, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.59332, -0.4297, 0.0, -0.58832, -0.4297, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.5781, -0.44257, 0.0, -0.5731, -0.44257, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.55934, -0.43582, 0.0, -0.55434, -0.43582, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.56287, -0.45544, 0.0, -0.55787, -0.45544, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.54411, -0.44869, 0.0, -0.53911, -0.44869, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.54765, -0.46831, 0.0, -0.54265, -0.46831, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.52889, -0.46156, 0.0, -0.52389, -0.46156, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.53242, -0.48118, 0.0, -0.52742, -0.48118, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.15783, 0.72135, 0.0, 0.16283, 0.72135, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.55118, -0.48793, 0.0, -0.54618, -0.48793, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.53596, -0.50081, 0.0, -0.53096, -0.50081, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.5172, -0.49406, 0.0, -0.5122, -0.49406, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.52073, -0.51368, 0.0, -0.51573, -0.51368, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.50197, -0.50693, 0.0, -0.49697, -0.50693, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.50551, -0.52655, 0.0, -0.50051, -0.52655, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.055038, 0.73966, 0.0, 0.060038, 0.73966, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.03703, 0.7329, 0.0, 0.04203, 0.7329, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.033568, 0.71333, 0.0, 0.038568, 0.71333, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.01834, 0.7262, 0.0, 0.02334, 0.7262, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.72225, 0.15378, 0.0, 0.72725, 0.15378, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.73945, -0.041762, 0.0, 0.74445, -0.041762, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.73588, -0.061376, 0.0, 0.74088, -0.061376, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.71733, -0.068163, 0.0, 0.72233, -0.068163, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.73254, -0.081033, 0.0, 0.73754, -0.081033, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.71382, -0.087789, 0.0, 0.71882, -0.087789, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.72905, -0.10066, 0.0, 0.73405, -0.10066, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.71029, -0.10741, 0.0, 0.71529, -0.10741, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.72552, -0.12028, 0.0, 0.73052, -0.12028, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.70676, -0.12703, 0.0, 0.71176, -0.12703, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.72199, -0.1399, 0.0, 0.72699, -0.1399, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.70323, -0.14665, 0.0, 0.70823, -0.14665, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.71846, -0.15952, 0.0, 0.72346, -0.15952, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.6997, -0.16627, 0.0, 0.7047, -0.16627, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.71492, -0.17915, 0.0, 0.71992, -0.17915, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.69616, -0.1859, 0.0, 0.70116, -0.1859, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.71139, -0.19877, 0.0, 0.71639, -0.19877, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.69263, -0.20552, 0.0, 0.69763, -0.20552, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.70785, -0.21839, 0.0, 0.71285, -0.21839, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.6891, -0.22514, 0.0, 0.6941, -0.22514, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.70432, -0.23801, 0.0, 0.70932, -0.23801, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.68556, -0.24476, 0.0, 0.69056, -0.24476, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.57024, 0.47772, 0.0, -0.56524, 0.47772, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.13987, 0.72433, 0.0, -0.13487, 0.72433, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.15863, 0.71758, 0.0, -0.15363, 0.71758, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.12111, 0.73108, 0.0, -0.11611, 0.73108, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.51045, 0.5363, 0.0, 0.51545, 0.5363, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.49523, 0.54917, 0.0, 0.50023, 0.54917, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.088543, -0.73482, 0.0, 0.093543, -0.73482, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.069784, -0.74157, 0.0, 0.074784, -0.74157, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.70079, -0.25763, 0.0, 0.70579, -0.25763, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.68203, -0.26438, 0.0, 0.68703, -0.26438, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.71268, -0.21576, 0.0, -0.70768, -0.21576, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.70915, -0.19614, 0.0, -0.70415, -0.19614, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.5529, -0.49434, 0.0, 0.5579, -0.49434, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.73253, -0.13116, 0.0, -0.72753, -0.13116, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.063183, -0.018749, 0.0, -0.058183, -0.018749, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.066717, -0.03837, 0.0, -0.061717, -0.03837, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.051492, -0.051241, 0.0, -0.046492, -0.051241, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.05965, 0.00087194, 0.0, -0.05465, 0.00087194, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.14393, 0.11734, 0.0, -0.13893, 0.11734, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.083033, 0.065855, 0.0, -0.078033, 0.065855, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.35331, 0.44306, 0.0, 0.35831, 0.44306, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.33809, 0.45593, 0.0, 0.34309, 0.45593, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.36854, 0.43019, 0.0, 0.37354, 0.43019, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.365, 0.41057, 0.0, 0.37, 0.41057, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.57951, 0.4327, 0.0, 0.58451, 0.4327, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.56075, 0.42595, 0.0, 0.56575, 0.42595, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.59827, 0.43945, 0.0, 0.60327, 0.43945, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.15017, -0.30694, 0.0, -0.14517, -0.30694, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.071137, -0.53924, 0.0, 0.076137, -0.53924, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.086363, -0.55212, 0.0, 0.091363, -0.55212, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.10512, -0.54537, 0.0, 0.11012, -0.54537, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.10159, -0.56499, 0.0, 0.10659, -0.56499, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.096341, -0.39767, 0.0, -0.091341, -0.39767, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.32528, 0.47412, 0.0, -0.32028, 0.47412, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.30652, 0.48087, 0.0, -0.30152, 0.48087, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.34404, 0.46737, 0.0, -0.33904, 0.46737, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.27472, 0.65745, 0.0, -0.26972, 0.65745, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.28995, 0.67033, 0.0, -0.28495, 0.67033, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.47023, 0.11814, 0.0, 0.47523, 0.11814, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.54526, 0.14514, 0.0, 0.55026, 0.14514, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.49335, -0.24053, 0.0, 0.49835, -0.24053, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.49688, -0.2209, 0.0, 0.50188, -0.2209, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.48981, -0.26015, 0.0, 0.49481, -0.26015, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.69501, -0.11766, 0.0, -0.69001, -0.11766, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.69725, -0.27725, 0.0, 0.70225, -0.27725, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.67849, -0.284, 0.0, 0.68349, -0.284, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.54034, 0.5099, 0.0, 0.54534, 0.5099, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.58163, -0.46219, 0.0, -0.57663, -0.46219, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.62377, -0.40396, 0.0, -0.61877, -0.40396, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.72579, 0.1734, 0.0, 0.73079, 0.1734, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.10862, 0.74034, 0.0, 0.11362, 0.74034, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.021683, 0.7456, 0.0, 0.026683, 0.7456, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.0030942, 0.73904, 0.0, 0.0080942, 0.73904, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.12243, -0.73734, 0.0, -0.11743, -0.73734, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.16005, -0.72744, 0.0, 0.16505, -0.72744, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.74673, -0.0025577, 0.0, 0.75173, -0.0025577, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.74069, -0.079044, 0.0, -0.73569, -0.079044, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.1788, -0.72069, 0.0, 0.1838, -0.72069, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.31365, -0.65382, 0.0, 0.31865, -0.65382, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.32888, -0.66669, 0.0, 0.33388, -0.66669, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.16711, -0.6882, 0.0, 0.17211, -0.6882, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.12035, -0.55824, 0.0, 0.12535, -0.55824, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.11681, -0.57786, 0.0, 0.12181, -0.57786, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.096964, -0.49325, 0.0, 0.10196, -0.49325, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.061889, -0.39578, 0.0, 0.066889, -0.39578, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.69855, -0.13728, 0.0, -0.69355, -0.13728, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( 0.0034318, -0.23332, 0.0, 0.0084318, -0.23332, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.0082597, -0.20083, 0.0, -0.0032597, -0.20083, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.023485, -0.18796, 0.0, -0.018485, -0.18796, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.042244, -0.19471, 0.0, -0.037244, -0.19471, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.03871, -0.17509, 0.0, -0.03371, -0.17509, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.019951, -0.16834, 0.0, -0.014951, -0.16834, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.035176, -0.15547, 0.0, -0.030176, -0.15547, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.053935, -0.16222, 0.0, -0.048935, -0.16222, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.050402, -0.14259, 0.0, -0.045402, -0.14259, 0.0 )
-Part.ClearSelection2 True
-Set skSegment = Part.SketchManager.CreateCircle( -0.031643, -0.13584, 0.0, -0.026643, -0.13584, 0.0 )
-Part.ClearSelection2 True
+Dim skSegment001601 As Object
+Set skSegment001601 = Part.SketchManager.CreateCircle( 0.28346, -0.3344, 0.0, 0.28846, -0.3344, 0.0 )
+Dim skSegment001602 As Object
+Set skSegment001602 = Part.SketchManager.CreateCircle( 0.27993, -0.35402, 0.0, 0.28493, -0.35402, 0.0 )
+Dim skSegment001603 As Object
+Set skSegment001603 = Part.SketchManager.CreateCircle( 0.26117, -0.36077, 0.0, 0.26617, -0.36077, 0.0 )
+Dim skSegment001604 As Object
+Set skSegment001604 = Part.SketchManager.CreateCircle( 0.2764, -0.37364, 0.0, 0.2814, -0.37364, 0.0 )
+Dim skSegment001605 As Object
+Set skSegment001605 = Part.SketchManager.CreateCircle( 0.29407, -0.27553, 0.0, 0.29907, -0.27553, 0.0 )
+Dim skSegment001606 As Object
+Set skSegment001606 = Part.SketchManager.CreateCircle( 0.25764, -0.38039, 0.0, 0.26264, -0.38039, 0.0 )
+Dim skSegment001607 As Object
+Set skSegment001607 = Part.SketchManager.CreateCircle( 0.27286, -0.39326, 0.0, 0.27786, -0.39326, 0.0 )
+Dim skSegment001608 As Object
+Set skSegment001608 = Part.SketchManager.CreateCircle( 0.33756, -0.13144, 0.0, 0.34256, -0.13144, 0.0 )
+Dim skSegment001609 As Object
+Set skSegment001609 = Part.SketchManager.CreateCircle( 0.29869, -0.34727, 0.0, 0.30369, -0.34727, 0.0 )
+Dim skSegment001610 As Object
+Set skSegment001610 = Part.SketchManager.CreateCircle( 0.2541, -0.40001, 0.0, 0.2591, -0.40001, 0.0 )
+Dim skSegment001611 As Object
+Set skSegment001611 = Part.SketchManager.CreateCircle( 0.26933, -0.41288, 0.0, 0.27433, -0.41288, 0.0 )
+Dim skSegment001612 As Object
+Set skSegment001612 = Part.SketchManager.CreateCircle( 0.28809, -0.40613, 0.0, 0.29309, -0.40613, 0.0 )
+Dim skSegment001613 As Object
+Set skSegment001613 = Part.SketchManager.CreateCircle( 0.28455, -0.42575, 0.0, 0.28955, -0.42575, 0.0 )
+Dim skSegment001614 As Object
+Set skSegment001614 = Part.SketchManager.CreateCircle( 0.2658, -0.4325, 0.0, 0.2708, -0.4325, 0.0 )
+Dim skSegment001615 As Object
+Set skSegment001615 = Part.SketchManager.CreateCircle( 0.28102, -0.44537, 0.0, 0.28602, -0.44537, 0.0 )
+Dim skSegment001616 As Object
+Set skSegment001616 = Part.SketchManager.CreateCircle( 0.30113, -0.23629, 0.0, 0.30613, -0.23629, 0.0 )
+Dim skSegment001617 As Object
+Set skSegment001617 = Part.SketchManager.CreateCircle( 0.11734, 0.0095103, 0.0, 0.12234, 0.0095103, 0.0 )
+Dim skSegment001618 As Object
+Set skSegment001618 = Part.SketchManager.CreateCircle( 0.12087, 0.029131, 0.0, 0.12587, 0.029131, 0.0 )
+Dim skSegment001619 As Object
+Set skSegment001619 = Part.SketchManager.CreateCircle( 0.11381, -0.010111, 0.0, 0.11881, -0.010111, 0.0 )
+Dim skSegment001620 As Object
+Set skSegment001620 = Part.SketchManager.CreateCircle( 0.24241, -0.36752, 0.0, 0.24741, -0.36752, 0.0 )
+Dim skSegment001621 As Object
+Set skSegment001621 = Part.SketchManager.CreateCircle( 0.13963, 0.035881, 0.0, 0.14463, 0.035881, 0.0 )
+Dim skSegment001622 As Object
+Set skSegment001622 = Part.SketchManager.CreateCircle( -0.11649, 0.65934, 0.0, -0.11149, 0.65934, 0.0 )
+Dim skSegment001623 As Object
+Set skSegment001623 = Part.SketchManager.CreateCircle( -0.074048, -0.3713, 0.0, -0.069048, -0.3713, 0.0 )
+Dim skSegment001624 As Object
+Set skSegment001624 = Part.SketchManager.CreateCircle( -0.089273, -0.35842, 0.0, -0.084273, -0.35842, 0.0 )
+Dim skSegment001625 As Object
+Set skSegment001625 = Part.SketchManager.CreateCircle( 0.56184, 0.3346, 0.0, 0.56684, 0.3346, 0.0 )
+Dim skSegment001626 As Object
+Set skSegment001626 = Part.SketchManager.CreateCircle( -0.35844, 0.0952, 0.0, -0.35344, 0.0952, 0.0 )
+Dim skSegment001627 As Object
+Set skSegment001627 = Part.SketchManager.CreateCircle( -0.28258, -0.26284, 0.0, -0.27758, -0.26284, 0.0 )
+Dim skSegment001628 As Object
+Set skSegment001628 = Part.SketchManager.CreateCircle( -0.1975, 0.50175, 0.0, -0.1925, 0.50175, 0.0 )
+Dim skSegment001629 As Object
+Set skSegment001629 = Part.SketchManager.CreateCircle( -0.041154, -0.28606, 0.0, -0.036154, -0.28606, 0.0 )
+Dim skSegment001630 As Object
+Set skSegment001630 = Part.SketchManager.CreateCircle( -0.03762, -0.26644, 0.0, -0.03262, -0.26644, 0.0 )
+Dim skSegment001631 As Object
+Set skSegment001631 = Part.SketchManager.CreateCircle( -0.022395, -0.27931, 0.0, -0.017395, -0.27931, 0.0 )
+Dim skSegment001632 As Object
+Set skSegment001632 = Part.SketchManager.CreateCircle( -0.018861, -0.25969, 0.0, -0.013861, -0.25969, 0.0 )
+Dim skSegment001633 As Object
+Set skSegment001633 = Part.SketchManager.CreateCircle( -0.034086, -0.24682, 0.0, -0.029086, -0.24682, 0.0 )
+Dim skSegment001634 As Object
+Set skSegment001634 = Part.SketchManager.CreateCircle( -0.0036357, -0.27256, 0.0, 0.0013643, -0.27256, 0.0 )
+Dim skSegment001635 As Object
+Set skSegment001635 = Part.SketchManager.CreateCircle( -0.015327, -0.24007, 0.0, -0.010327, -0.24007, 0.0 )
+Dim skSegment001636 As Object
+Set skSegment001636 = Part.SketchManager.CreateCircle( -0.030552, -0.2272, 0.0, -0.025552, -0.2272, 0.0 )
+Dim skSegment001637 As Object
+Set skSegment001637 = Part.SketchManager.CreateCircle( -0.14311, -0.2677, 0.0, -0.13811, -0.2677, 0.0 )
+Dim skSegment001638 As Object
+Set skSegment001638 = Part.SketchManager.CreateCircle( -0.14664, -0.28732, 0.0, -0.14164, -0.28732, 0.0 )
+Dim skSegment001639 As Object
+Set skSegment001639 = Part.SketchManager.CreateCircle( -0.16187, -0.27445, 0.0, -0.15687, -0.27445, 0.0 )
+Dim skSegment001640 As Object
+Set skSegment001640 = Part.SketchManager.CreateCircle( 0.14478, 0.55151, 0.0, 0.14978, 0.55151, 0.0 )
+Dim skSegment001641 As Object
+Set skSegment001641 = Part.SketchManager.CreateCircle( -0.16649, -0.20272, 0.0, -0.16149, -0.20272, 0.0 )
+Dim skSegment001642 As Object
+Set skSegment001642 = Part.SketchManager.CreateCircle( 0.44658, -0.11056, 0.0, 0.45158, -0.11056, 0.0 )
+Dim skSegment001643 As Object
+Set skSegment001643 = Part.SketchManager.CreateCircle( 0.21711, 0.17386, 0.0, 0.22211, 0.17386, 0.0 )
+Dim skSegment001644 As Object
+Set skSegment001644 = Part.SketchManager.CreateCircle( 0.44876, -0.29327, 0.0, 0.45376, -0.29327, 0.0 )
+Dim skSegment001645 As Object
+Set skSegment001645 = Part.SketchManager.CreateCircle( 0.038206, 0.64161, 0.0, 0.043206, 0.64161, 0.0 )
+Dim skSegment001646 As Object
+Set skSegment001646 = Part.SketchManager.CreateCircle( -0.0066429, 0.29518, 0.0, -0.0016429, 0.29518, 0.0 )
+Dim skSegment001647 As Object
+Set skSegment001647 = Part.SketchManager.CreateCircle( 0.19809, -0.12658, 0.0, 0.20309, -0.12658, 0.0 )
+Dim skSegment001648 As Object
+Set skSegment001648 = Part.SketchManager.CreateCircle( 0.28534, 0.4553, 0.0, 0.29034, 0.4553, 0.0 )
+Dim skSegment001649 As Object
+Set skSegment001649 = Part.SketchManager.CreateCircle( -0.092807, -0.37805, 0.0, -0.087807, -0.37805, 0.0 )
+Dim skSegment001650 As Object
+Set skSegment001650 = Part.SketchManager.CreateCircle( -0.10803, -0.36517, 0.0, -0.10303, -0.36517, 0.0 )
+Dim skSegment001651 As Object
+Set skSegment001651 = Part.SketchManager.CreateCircle( -0.381, -0.22485, 0.0, -0.376, -0.22485, 0.0 )
+Dim skSegment001652 As Object
+Set skSegment001652 = Part.SketchManager.CreateCircle( -0.38453, -0.24448, 0.0, -0.37953, -0.24448, 0.0 )
+Dim skSegment001653 As Object
+Set skSegment001653 = Part.SketchManager.CreateCircle( -0.39976, -0.2316, 0.0, -0.39476, -0.2316, 0.0 )
+Dim skSegment001654 As Object
+Set skSegment001654 = Part.SketchManager.CreateCircle( -0.40329, -0.25123, 0.0, -0.39829, -0.25123, 0.0 )
+Dim skSegment001655 As Object
+Set skSegment001655 = Part.SketchManager.CreateCircle( -0.41852, -0.23835, 0.0, -0.41352, -0.23835, 0.0 )
+Dim skSegment001656 As Object
+Set skSegment001656 = Part.SketchManager.CreateCircle( -0.42205, -0.25798, 0.0, -0.41705, -0.25798, 0.0 )
+Dim skSegment001657 As Object
+Set skSegment001657 = Part.SketchManager.CreateCircle( -0.43727, -0.2451, 0.0, -0.43227, -0.2451, 0.0 )
+Dim skSegment001658 As Object
+Set skSegment001658 = Part.SketchManager.CreateCircle( -0.40682, -0.27085, 0.0, -0.40182, -0.27085, 0.0 )
+Dim skSegment001659 As Object
+Set skSegment001659 = Part.SketchManager.CreateCircle( -0.43374, -0.22548, 0.0, -0.42874, -0.22548, 0.0 )
+Dim skSegment001660 As Object
+Set skSegment001660 = Part.SketchManager.CreateCircle( -0.42558, -0.2776, 0.0, -0.42058, -0.2776, 0.0 )
+Dim skSegment001661 As Object
+Set skSegment001661 = Part.SketchManager.CreateCircle( -0.41036, -0.29047, 0.0, -0.40536, -0.29047, 0.0 )
+Dim skSegment001662 As Object
+Set skSegment001662 = Part.SketchManager.CreateCircle( -0.32882, 0.4545, 0.0, -0.32382, 0.4545, 0.0 )
+Dim skSegment001663 As Object
+Set skSegment001663 = Part.SketchManager.CreateCircle( -0.31006, 0.46125, 0.0, -0.30506, 0.46125, 0.0 )
+Dim skSegment001664 As Object
+Set skSegment001664 = Part.SketchManager.CreateCircle( 0.44549, -0.019205, 0.0, 0.45049, -0.019205, 0.0 )
+Dim skSegment001665 As Object
+Set skSegment001665 = Part.SketchManager.CreateCircle( -0.038447, 0.1186, 0.0, -0.033447, 0.1186, 0.0 )
+Dim skSegment001666 As Object
+Set skSegment001666 = Part.SketchManager.CreateCircle( -0.40111, -0.43393, 0.0, -0.39611, -0.43393, 0.0 )
+Dim skSegment001667 As Object
+Set skSegment001667 = Part.SketchManager.CreateCircle( 0.33102, 0.41669, 0.0, 0.33602, 0.41669, 0.0 )
+Dim skSegment001668 As Object
+Set skSegment001668 = Part.SketchManager.CreateCircle( 0.33455, 0.43631, 0.0, 0.33955, 0.43631, 0.0 )
+Dim skSegment001669 As Object
+Set skSegment001669 = Part.SketchManager.CreateCircle( 0.34978, 0.42344, 0.0, 0.35478, 0.42344, 0.0 )
+Dim skSegment001670 As Object
+Set skSegment001670 = Part.SketchManager.CreateCircle( -0.4525, -0.23223, 0.0, -0.4475, -0.23223, 0.0 )
+Dim skSegment001671 As Object
+Set skSegment001671 = Part.SketchManager.CreateCircle( -0.44897, -0.21261, 0.0, -0.44397, -0.21261, 0.0 )
+Dim skSegment001672 As Object
+Set skSegment001672 = Part.SketchManager.CreateCircle( -0.20671, -0.62087, 0.0, -0.20171, -0.62087, 0.0 )
+Dim skSegment001673 As Object
+Set skSegment001673 = Part.SketchManager.CreateCircle( -0.5531, -0.011543, 0.0, -0.5481, -0.011543, 0.0 )
+Dim skSegment001674 As Object
+Set skSegment001674 = Part.SketchManager.CreateCircle( 0.18911, 0.31057, 0.0, 0.19411, 0.31057, 0.0 )
+Dim skSegment001675 As Object
+Set skSegment001675 = Part.SketchManager.CreateCircle( -0.19423, 0.22768, 0.0, -0.18923, 0.22768, 0.0 )
+Dim skSegment001676 As Object
+Set skSegment001676 = Part.SketchManager.CreateCircle( 0.48463, 0.49031, 0.0, 0.48963, 0.49031, 0.0 )
+Dim skSegment001677 As Object
+Set skSegment001677 = Part.SketchManager.CreateCircle( 0.48816, 0.50993, 0.0, 0.49316, 0.50993, 0.0 )
+Dim skSegment001678 As Object
+Set skSegment001678 = Part.SketchManager.CreateCircle( 0.50339, 0.49706, 0.0, 0.50839, 0.49706, 0.0 )
+Dim skSegment001679 As Object
+Set skSegment001679 = Part.SketchManager.CreateCircle( -0.042808, 0.48401, 0.0, -0.037808, 0.48401, 0.0 )
+Dim skSegment001680 As Object
+Set skSegment001680 = Part.SketchManager.CreateCircle( -0.039274, 0.50363, 0.0, -0.034274, 0.50363, 0.0 )
+Dim skSegment001681 As Object
+Set skSegment001681 = Part.SketchManager.CreateCircle( -0.020515, 0.51038, 0.0, -0.015515, 0.51038, 0.0 )
+Dim skSegment001682 As Object
+Set skSegment001682 = Part.SketchManager.CreateCircle( -0.03574, 0.52326, 0.0, -0.03074, 0.52326, 0.0 )
+Dim skSegment001683 As Object
+Set skSegment001683 = Part.SketchManager.CreateCircle( -0.054499, 0.51651, 0.0, -0.049499, 0.51651, 0.0 )
+Dim skSegment001684 As Object
+Set skSegment001684 = Part.SketchManager.CreateCircle( -0.050965, 0.53613, 0.0, -0.045965, 0.53613, 0.0 )
+Dim skSegment001685 As Object
+Set skSegment001685 = Part.SketchManager.CreateCircle( -0.71242, 0.077923, 0.0, -0.70742, 0.077923, 0.0 )
+Dim skSegment001686 As Object
+Set skSegment001686 = Part.SketchManager.CreateCircle( 0.38188, -0.37238, 0.0, 0.38688, -0.37238, 0.0 )
+Dim skSegment001687 As Object
+Set skSegment001687 = Part.SketchManager.CreateCircle( -0.26762, -0.56939, 0.0, -0.26262, -0.56939, 0.0 )
+Dim skSegment001688 As Object
+Set skSegment001688 = Part.SketchManager.CreateCircle( -0.34457, -0.12, 0.0, -0.33957, -0.12, 0.0 )
+Dim skSegment001689 As Object
+Set skSegment001689 = Part.SketchManager.CreateCircle( -0.26138, -0.14511, 0.0, -0.25638, -0.14511, 0.0 )
+Dim skSegment001690 As Object
+Set skSegment001690 = Part.SketchManager.CreateCircle( -0.68768, 0.21527, 0.0, -0.68268, 0.21527, 0.0 )
+Dim skSegment001691 As Object
+Set skSegment001691 = Part.SketchManager.CreateCircle( 0.50068, 0.0924, 0.0, 0.50568, 0.0924, 0.0 )
+Dim skSegment001692 As Object
+Set skSegment001692 = Part.SketchManager.CreateCircle( 0.58034, 0.047667, 0.0, 0.58534, 0.047667, 0.0 )
+Dim skSegment001693 As Object
+Set skSegment001693 = Part.SketchManager.CreateCircle( 0.26226, -0.45212, 0.0, 0.26726, -0.45212, 0.0 )
+Dim skSegment001694 As Object
+Set skSegment001694 = Part.SketchManager.CreateCircle( 0.27749, -0.46499, 0.0, 0.28249, -0.46499, 0.0 )
+Dim skSegment001695 As Object
+Set skSegment001695 = Part.SketchManager.CreateCircle( 0.56132, -0.25277, 0.0, 0.56632, -0.25277, 0.0 )
+Dim skSegment001696 As Object
+Set skSegment001696 = Part.SketchManager.CreateCircle( -0.54468, 0.23003, 0.0, -0.53968, 0.23003, 0.0 )
+Dim skSegment001697 As Object
+Set skSegment001697 = Part.SketchManager.CreateCircle( -0.32852, -0.51791, 0.0, -0.32352, -0.51791, 0.0 )
+Dim skSegment001698 As Object
+Set skSegment001698 = Part.SketchManager.CreateCircle( 0.43463, -0.37175, 0.0, 0.43963, -0.37175, 0.0 )
+Dim skSegment001699 As Object
+Set skSegment001699 = Part.SketchManager.CreateCircle( -0.09416, -0.58037, 0.0, -0.08916, -0.58037, 0.0 )
+Dim skSegment001700 As Object
+Set skSegment001700 = Part.SketchManager.CreateCircle( -0.12705, -0.66561, 0.0, -0.12205, -0.66561, 0.0 )
+Dim skSegment001701 As Object
+Set skSegment001701 = Part.SketchManager.CreateCircle( -0.58817, 0.085932, 0.0, -0.58317, 0.085932, 0.0 )
+Dim skSegment001702 As Object
+Set skSegment001702 = Part.SketchManager.CreateCircle( -0.51043, 0.51759, 0.0, -0.50543, 0.51759, 0.0 )
+Dim skSegment001703 As Object
+Set skSegment001703 = Part.SketchManager.CreateCircle( 0.71519, 0.11454, 0.0, 0.72019, 0.11454, 0.0 )
+Dim skSegment001704 As Object
+Set skSegment001704 = Part.SketchManager.CreateCircle( -0.46938, 0.55071, 0.0, -0.46438, 0.55071, 0.0 )
+Dim skSegment001705 As Object
+Set skSegment001705 = Part.SketchManager.CreateCircle( 0.22226, 0.68949, 0.0, 0.22726, 0.68949, 0.0 )
+Dim skSegment001706 As Object
+Set skSegment001706 = Part.SketchManager.CreateCircle( -0.68062, 0.25451, 0.0, -0.67562, 0.25451, 0.0 )
+Dim skSegment001707 As Object
+Set skSegment001707 = Part.SketchManager.CreateCircle( 0.13907, 0.7146, 0.0, 0.14407, 0.7146, 0.0 )
+Dim skSegment001708 As Object
+Set skSegment001708 = Part.SketchManager.CreateCircle( 0.12031, 0.70785, 0.0, 0.12531, 0.70785, 0.0 )
+Dim skSegment001709 As Object
+Set skSegment001709 = Part.SketchManager.CreateCircle( 0.11678, 0.68823, 0.0, 0.12178, 0.68823, 0.0 )
+Dim skSegment001710 As Object
+Set skSegment001710 = Part.SketchManager.CreateCircle( 0.10155, 0.7011, 0.0, 0.10655, 0.7011, 0.0 )
+Dim skSegment001711 As Object
+Set skSegment001711 = Part.SketchManager.CreateCircle( 0.50692, 0.51668, 0.0, 0.51192, 0.51668, 0.0 )
+Dim skSegment001712 As Object
+Set skSegment001712 = Part.SketchManager.CreateCircle( 0.49169, 0.52955, 0.0, 0.49669, 0.52955, 0.0 )
+Dim skSegment001713 As Object
+Set skSegment001713 = Part.SketchManager.CreateCircle( 0.52214, 0.50381, 0.0, 0.52714, 0.50381, 0.0 )
+Dim skSegment001714 As Object
+Set skSegment001714 = Part.SketchManager.CreateCircle( 0.51861, 0.48419, 0.0, 0.52361, 0.48419, 0.0 )
+Dim skSegment001715 As Object
+Set skSegment001715 = Part.SketchManager.CreateCircle( 0.53737, 0.49094, 0.0, 0.54237, 0.49094, 0.0 )
+Dim skSegment001716 As Object
+Set skSegment001716 = Part.SketchManager.CreateCircle( 0.53384, 0.47132, 0.0, 0.53884, 0.47132, 0.0 )
+Dim skSegment001717 As Object
+Set skSegment001717 = Part.SketchManager.CreateCircle( 0.55259, 0.47807, 0.0, 0.55759, 0.47807, 0.0 )
+Dim skSegment001718 As Object
+Set skSegment001718 = Part.SketchManager.CreateCircle( 0.54906, 0.45845, 0.0, 0.55406, 0.45845, 0.0 )
+Dim skSegment001719 As Object
+Set skSegment001719 = Part.SketchManager.CreateCircle( 0.56782, 0.4652, 0.0, 0.57282, 0.4652, 0.0 )
+Dim skSegment001720 As Object
+Set skSegment001720 = Part.SketchManager.CreateCircle( 0.56429, 0.44558, 0.0, 0.56929, 0.44558, 0.0 )
+Dim skSegment001721 As Object
+Set skSegment001721 = Part.SketchManager.CreateCircle( -0.72546, -0.091915, 0.0, -0.72046, -0.091915, 0.0 )
+Dim skSegment001722 As Object
+Set skSegment001722 = Part.SketchManager.CreateCircle( -0.71024, -0.10479, 0.0, -0.70524, -0.10479, 0.0 )
+Dim skSegment001723 As Object
+Set skSegment001723 = Part.SketchManager.CreateCircle( -0.1189, -0.71772, 0.0, -0.1139, -0.71772, 0.0 )
+Dim skSegment001724 As Object
+Set skSegment001724 = Part.SketchManager.CreateCircle( -0.10014, -0.71097, 0.0, -0.095138, -0.71097, 0.0 )
+Dim skSegment001725 As Object
+Set skSegment001725 = Part.SketchManager.CreateCircle( -0.096604, -0.69135, 0.0, -0.091604, -0.69135, 0.0 )
+Dim skSegment001726 As Object
+Set skSegment001726 = Part.SketchManager.CreateCircle( -0.081379, -0.70422, 0.0, -0.076379, -0.70422, 0.0 )
+Dim skSegment001727 As Object
+Set skSegment001727 = Part.SketchManager.CreateCircle( 0.62165, 0.37447, 0.0, 0.62665, 0.37447, 0.0 )
+Dim skSegment001728 As Object
+Set skSegment001728 = Part.SketchManager.CreateCircle( -0.64716, -0.33898, 0.0, -0.64216, -0.33898, 0.0 )
+Dim skSegment001729 As Object
+Set skSegment001729 = Part.SketchManager.CreateCircle( 0.72334, 0.062426, 0.0, 0.72834, 0.062426, 0.0 )
+Dim skSegment001730 As Object
+Set skSegment001730 = Part.SketchManager.CreateCircle( 0.71981, 0.042805, 0.0, 0.72481, 0.042805, 0.0 )
+Dim skSegment001731 As Object
+Set skSegment001731 = Part.SketchManager.CreateCircle( -0.72655, -0.00056029, 0.0, -0.72155, -0.00056029, 0.0 )
+Dim skSegment001732 As Object
+Set skSegment001732 = Part.SketchManager.CreateCircle( 0.10508, 0.72072, 0.0, 0.11008, 0.72072, 0.0 )
+Dim skSegment001733 As Object
+Set skSegment001733 = Part.SketchManager.CreateCircle( 0.086325, 0.71397, 0.0, 0.091325, 0.71397, 0.0 )
+Dim skSegment001734 As Object
+Set skSegment001734 = Part.SketchManager.CreateCircle( -0.084913, -0.72384, 0.0, -0.079913, -0.72384, 0.0 )
+Dim skSegment001735 As Object
+Set skSegment001735 = Part.SketchManager.CreateCircle( -0.066154, -0.71709, 0.0, -0.061154, -0.71709, 0.0 )
+Dim skSegment001736 As Object
+Set skSegment001736 = Part.SketchManager.CreateCircle( -0.64772, 0.33974, 0.0, -0.64272, 0.33974, 0.0 )
+Dim skSegment001737 As Object
+Set skSegment001737 = Part.SketchManager.CreateCircle( -0.729, -0.11154, 0.0, -0.724, -0.11154, 0.0 )
+Dim skSegment001738 As Object
+Set skSegment001738 = Part.SketchManager.CreateCircle( -0.71377, -0.12441, 0.0, -0.70877, -0.12441, 0.0 )
+Dim skSegment001739 As Object
+Set skSegment001739 = Part.SketchManager.CreateCircle( 0.58305, 0.45233, 0.0, 0.58805, 0.45233, 0.0 )
+Dim skSegment001740 As Object
+Set skSegment001740 = Part.SketchManager.CreateCircle( 0.53414, -0.50109, 0.0, 0.53914, -0.50109, 0.0 )
+Dim skSegment001741 As Object
+Set skSegment001741 = Part.SketchManager.CreateCircle( 0.51538, -0.50784, 0.0, 0.52038, -0.50784, 0.0 )
+Dim skSegment001742 As Object
+Set skSegment001742 = Part.SketchManager.CreateCircle( 0.50015, -0.49497, 0.0, 0.50515, -0.49497, 0.0 )
+Dim skSegment001743 As Object
+Set skSegment001743 = Part.SketchManager.CreateCircle( 0.49662, -0.51459, 0.0, 0.50162, -0.51459, 0.0 )
+Dim skSegment001744 As Object
+Set skSegment001744 = Part.SketchManager.CreateCircle( 0.14482, -0.71457, 0.0, 0.14982, -0.71457, 0.0 )
+Dim skSegment001745 As Object
+Set skSegment001745 = Part.SketchManager.CreateCircle( -0.25243, 0.68383, 0.0, -0.24743, 0.68383, 0.0 )
+Dim skSegment001746 As Object
+Set skSegment001746 = Part.SketchManager.CreateCircle( -0.27119, 0.67708, 0.0, -0.26619, 0.67708, 0.0 )
+Dim skSegment001747 As Object
+Set skSegment001747 = Part.SketchManager.CreateCircle( -0.23367, 0.69058, 0.0, -0.22867, 0.69058, 0.0 )
+Dim skSegment001748 As Object
+Set skSegment001748 = Part.SketchManager.CreateCircle( -0.68577, -0.26112, 0.0, -0.68077, -0.26112, 0.0 )
+Dim skSegment001749 As Object
+Set skSegment001749 = Part.SketchManager.CreateCircle( -0.68223, -0.2415, 0.0, -0.67723, -0.2415, 0.0 )
+Dim skSegment001750 As Object
+Set skSegment001750 = Part.SketchManager.CreateCircle( -0.57378, 0.4581, 0.0, -0.56878, 0.4581, 0.0 )
+Dim skSegment001751 As Object
+Set skSegment001751 = Part.SketchManager.CreateCircle( -0.62189, 0.38574, 0.0, -0.61689, 0.38574, 0.0 )
+Dim skSegment001752 As Object
+Set skSegment001752 = Part.SketchManager.CreateCircle( -0.67407, -0.29361, 0.0, -0.66907, -0.29361, 0.0 )
+Dim skSegment001753 As Object
+Set skSegment001753 = Part.SketchManager.CreateCircle( 0.35117, -0.64032, 0.0, 0.35617, -0.64032, 0.0 )
+Dim skSegment001754 As Object
+Set skSegment001754 = Part.SketchManager.CreateCircle( 0.33241, -0.64707, 0.0, 0.33741, -0.64707, 0.0 )
+Dim skSegment001755 As Object
+Set skSegment001755 = Part.SketchManager.CreateCircle( 0.36993, -0.63357, 0.0, 0.37493, -0.63357, 0.0 )
+Dim skSegment001756 As Object
+Set skSegment001756 = Part.SketchManager.CreateCircle( -0.13766, -0.72447, 0.0, -0.13266, -0.72447, 0.0 )
+Dim skSegment001757 As Object
+Set skSegment001757 = Part.SketchManager.CreateCircle( 0.51184, -0.52746, 0.0, 0.51684, -0.52746, 0.0 )
+Dim skSegment001758 As Object
+Set skSegment001758 = Part.SketchManager.CreateCircle( 0.49308, -0.53421, 0.0, 0.49808, -0.53421, 0.0 )
+Dim skSegment001759 As Object
+Set skSegment001759 = Part.SketchManager.CreateCircle( -0.73362, -0.039802, 0.0, -0.72862, -0.039802, 0.0 )
+Dim skSegment001760 As Object
+Set skSegment001760 = Part.SketchManager.CreateCircle( 0.089859, 0.73359, 0.0, 0.094859, 0.73359, 0.0 )
+Dim skSegment001761 As Object
+Set skSegment001761 = Part.SketchManager.CreateCircle( 0.0711, 0.72684, 0.0, 0.0761, 0.72684, 0.0 )
+Dim skSegment001762 As Object
+Set skSegment001762 = Part.SketchManager.CreateCircle( -0.61836, 0.40536, 0.0, -0.61336, 0.40536, 0.0 )
+Dim skSegment001763 As Object
+Set skSegment001763 = Part.SketchManager.CreateCircle( 0.16358, -0.70782, 0.0, 0.16858, -0.70782, 0.0 )
+Dim skSegment001764 As Object
+Set skSegment001764 = Part.SketchManager.CreateCircle( 0.31719, -0.6342, 0.0, 0.32219, -0.6342, 0.0 )
+Dim skSegment001765 As Object
+Set skSegment001765 = Part.SketchManager.CreateCircle( 0.067566, 0.70722, 0.0, 0.072566, 0.70722, 0.0 )
+Dim skSegment001766 As Object
+Set skSegment001766 = Part.SketchManager.CreateCircle( 0.052341, 0.72009, 0.0, 0.057341, 0.72009, 0.0 )
+Dim skSegment001767 As Object
+Set skSegment001767 = Part.SketchManager.CreateCircle( 0.09343, -0.51287, 0.0, 0.09843, -0.51287, 0.0 )
+Dim skSegment001768 As Object
+Set skSegment001768 = Part.SketchManager.CreateCircle( 0.089896, -0.53249, 0.0, 0.094896, -0.53249, 0.0 )
+Dim skSegment001769 As Object
+Set skSegment001769 = Part.SketchManager.CreateCircle( 0.046664, -0.38291, 0.0, 0.051664, -0.38291, 0.0 )
+Dim skSegment001770 As Object
+Set skSegment001770 = Part.SketchManager.CreateCircle( -0.011793, -0.22045, 0.0, -0.0067934, -0.22045, 0.0 )
+Dim skSegment001771 As Object
+Set skSegment001771 = Part.SketchManager.CreateCircle( -0.027019, -0.20758, 0.0, -0.022019, -0.20758, 0.0 )
+Dim skSegment001772 As Object
+Set skSegment001772 = Part.SketchManager.CreateCircle( 0.098017, 0.68148, 0.0, 0.10302, 0.68148, 0.0 )
+Dim skSegment001773 As Object
+Set skSegment001773 = Part.SketchManager.CreateCircle( -0.098258, 0.078726, 0.0, -0.093258, 0.078726, 0.0 )
+Dim skSegment001774 As Object
+Set skSegment001774 = Part.SketchManager.CreateCircle( 0.12441, 0.048752, 0.0, 0.12941, 0.048752, 0.0 )
+Dim skSegment001775 As Object
+Set skSegment001775 = Part.SketchManager.CreateCircle( 0.14317, 0.055502, 0.0, 0.14817, 0.055502, 0.0 )
+Dim skSegment001776 As Object
+Set skSegment001776 = Part.SketchManager.CreateCircle( 0.45963, 0.059279, 0.0, 0.46463, 0.059279, 0.0 )
+Dim skSegment001777 As Object
+Set skSegment001777 = Part.SketchManager.CreateCircle( 0.028695, 0.49139, 0.0, 0.033695, 0.49139, 0.0 )
+Dim skSegment001778 As Object
+Set skSegment001778 = Part.SketchManager.CreateCircle( 0.04392, 0.47852, 0.0, 0.04892, 0.47852, 0.0 )
+Dim skSegment001779 As Object
+Set skSegment001779 = Part.SketchManager.CreateCircle( 0.040386, 0.4589, 0.0, 0.045386, 0.4589, 0.0 )
+Dim skSegment001780 As Object
+Set skSegment001780 = Part.SketchManager.CreateCircle( 0.059145, 0.46565, 0.0, 0.064145, 0.46565, 0.0 )
+Dim skSegment001781 As Object
+Set skSegment001781 = Part.SketchManager.CreateCircle( 0.055612, 0.44603, 0.0, 0.060612, 0.44603, 0.0 )
+Dim skSegment001782 As Object
+Set skSegment001782 = Part.SketchManager.CreateCircle( 0.074371, 0.45278, 0.0, 0.079371, 0.45278, 0.0 )
+Dim skSegment001783 As Object
+Set skSegment001783 = Part.SketchManager.CreateCircle( 0.070837, 0.43316, 0.0, 0.075837, 0.43316, 0.0 )
+Dim skSegment001784 As Object
+Set skSegment001784 = Part.SketchManager.CreateCircle( 0.089596, 0.43991, 0.0, 0.094596, 0.43991, 0.0 )
+Dim skSegment001785 As Object
+Set skSegment001785 = Part.SketchManager.CreateCircle( 0.086062, 0.42029, 0.0, 0.091062, 0.42029, 0.0 )
+Dim skSegment001786 As Object
+Set skSegment001786 = Part.SketchManager.CreateCircle( 0.10482, 0.42704, 0.0, 0.10982, 0.42704, 0.0 )
+Dim skSegment001787 As Object
+Set skSegment001787 = Part.SketchManager.CreateCircle( 0.067303, 0.41354, 0.0, 0.072303, 0.41354, 0.0 )
+Dim skSegment001788 As Object
+Set skSegment001788 = Part.SketchManager.CreateCircle( -0.016981, 0.53001, 0.0, -0.011981, 0.53001, 0.0 )
+Dim skSegment001789 As Object
+Set skSegment001789 = Part.SketchManager.CreateCircle( -0.16269, 0.11059, 0.0, -0.15769, 0.11059, 0.0 )
+Dim skSegment001790 As Object
+Set skSegment001790 = Part.SketchManager.CreateCircle( 0.39982, 0.019407, 0.0, 0.40482, 0.019407, 0.0 )
+Dim skSegment001791 As Object
+Set skSegment001791 = Part.SketchManager.CreateCircle( 0.54308, 0.32785, 0.0, 0.54808, 0.32785, 0.0 )
+Dim skSegment001792 As Object
+Set skSegment001792 = Part.SketchManager.CreateCircle( 0.54662, 0.34747, 0.0, 0.55162, 0.34747, 0.0 )
+Dim skSegment001793 As Object
+Set skSegment001793 = Part.SketchManager.CreateCircle( 0.082528, 0.40067, 0.0, 0.087528, 0.40067, 0.0 )
+Dim skSegment001794 As Object
+Set skSegment001794 = Part.SketchManager.CreateCircle( 0.063769, 0.39392, 0.0, 0.068769, 0.39392, 0.0 )
+Dim skSegment001795 As Object
+Set skSegment001795 = Part.SketchManager.CreateCircle( 0.098581, 0.0027602, 0.0, 0.10358, 0.0027602, 0.0 )
+Dim skSegment001796 As Object
+Set skSegment001796 = Part.SketchManager.CreateCircle( 0.3835, 0.12363, 0.0, 0.3885, 0.12363, 0.0 )
+Dim skSegment001797 As Object
+Set skSegment001797 = Part.SketchManager.CreateCircle( -0.19153, 0.63234, 0.0, -0.18653, 0.63234, 0.0 )
+Dim skSegment001798 As Object
+Set skSegment001798 = Part.SketchManager.CreateCircle( 0.30737, 0.18799, 0.0, 0.31237, 0.18799, 0.0 )
+Dim skSegment001799 As Object
+Set skSegment001799 = Part.SketchManager.CreateCircle( 0.29215, 0.20086, 0.0, 0.29715, 0.20086, 0.0 )
+Dim skSegment001800 As Object
+Set skSegment001800 = Part.SketchManager.CreateCircle( -0.51231, -0.27211, 0.0, -0.50731, -0.27211, 0.0 )
+Dim skSegment001801 As Object
+Set skSegment001801 = Part.SketchManager.CreateCircle( -0.01371, 0.25594, 0.0, -0.0087105, 0.25594, 0.0 )
+Dim skSegment001802 As Object
+Set skSegment001802 = Part.SketchManager.CreateCircle( -0.66347, -0.23475, 0.0, -0.65847, -0.23475, 0.0 )
+Dim skSegment001803 As Object
+Set skSegment001803 = Part.SketchManager.CreateCircle( -0.6787, -0.22188, 0.0, -0.6737, -0.22188, 0.0 )
+Dim skSegment001804 As Object
+Set skSegment001804 = Part.SketchManager.CreateCircle( -0.69746, -0.22863, 0.0, -0.69246, -0.22863, 0.0 )
+Dim skSegment001805 As Object
+Set skSegment001805 = Part.SketchManager.CreateCircle( -0.69392, -0.20901, 0.0, -0.68892, -0.20901, 0.0 )
+Dim skSegment001806 As Object
+Set skSegment001806 = Part.SketchManager.CreateCircle( -0.67516, -0.20226, 0.0, -0.67016, -0.20226, 0.0 )
+Dim skSegment001807 As Object
+Set skSegment001807 = Part.SketchManager.CreateCircle( 0.53955, 0.30823, 0.0, 0.54455, 0.30823, 0.0 )
+Dim skSegment001808 As Object
+Set skSegment001808 = Part.SketchManager.CreateCircle( 0.35305, 0.14937, 0.0, 0.35805, 0.14937, 0.0 )
+Dim skSegment001809 As Object
+Set skSegment001809 = Part.SketchManager.CreateCircle( 0.6309, 0.231, 0.0, 0.6359, 0.231, 0.0 )
+Dim skSegment001810 As Object
+Set skSegment001810 = Part.SketchManager.CreateCircle( 0.30331, -0.419, 0.0, 0.30831, -0.419, 0.0 )
+Dim skSegment001811 As Object
+Set skSegment001811 = Part.SketchManager.CreateCircle( -0.46772, -0.21936, 0.0, -0.46272, -0.21936, 0.0 )
+Dim skSegment001812 As Object
+Set skSegment001812 = Part.SketchManager.CreateCircle( -0.46419, -0.19974, 0.0, -0.45919, -0.19974, 0.0 )
+Dim skSegment001813 As Object
+Set skSegment001813 = Part.SketchManager.CreateCircle( 0.60045, 0.25675, 0.0, 0.60545, 0.25675, 0.0 )
+Dim skSegment001814 As Object
+Set skSegment001814 = Part.SketchManager.CreateCircle( 0.70105, 0.036055, 0.0, 0.70605, 0.036055, 0.0 )
+Dim skSegment001815 As Object
+Set skSegment001815 = Part.SketchManager.CreateCircle( 0.71628, 0.023184, 0.0, 0.72128, 0.023184, 0.0 )
+Dim skSegment001816 As Object
+Set skSegment001816 = Part.SketchManager.CreateCircle( 0.73503, 0.029934, 0.0, 0.74003, 0.029934, 0.0 )
+Dim skSegment001817 As Object
+Set skSegment001817 = Part.SketchManager.CreateCircle( 0.7315, 0.010313, 0.0, 0.7365, 0.010313, 0.0 )
+Dim skSegment001818 As Object
+Set skSegment001818 = Part.SketchManager.CreateCircle( 0.71274, 0.003563, 0.0, 0.71774, 0.003563, 0.0 )
+Dim skSegment001819 As Object
+Set skSegment001819 = Part.SketchManager.CreateCircle( 0.72797, -0.0093078, 0.0, 0.73297, -0.0093078, 0.0 )
+Dim skSegment001820 As Object
+Set skSegment001820 = Part.SketchManager.CreateCircle( 0.70921, -0.016058, 0.0, 0.71421, -0.016058, 0.0 )
+Dim skSegment001821 As Object
+Set skSegment001821 = Part.SketchManager.CreateCircle( 0.72443, -0.028929, 0.0, 0.72943, -0.028929, 0.0 )
+Dim skSegment001822 As Object
+Set skSegment001822 = Part.SketchManager.CreateCircle( -0.29209, -0.41305, 0.0, -0.28709, -0.41305, 0.0 )
+Dim skSegment001823 As Object
+Set skSegment001823 = Part.SketchManager.CreateCircle( -0.31085, -0.4198, 0.0, -0.30585, -0.4198, 0.0 )
+Dim skSegment001824 As Object
+Set skSegment001824 = Part.SketchManager.CreateCircle( -0.028936, 0.26881, 0.0, -0.023936, 0.26881, 0.0 )
+Dim skSegment001825 As Object
+Set skSegment001825 = Part.SketchManager.CreateCircle( 0.021928, -0.52025, 0.0, 0.026928, -0.52025, 0.0 )
+Dim skSegment001826 As Object
+Set skSegment001826 = Part.SketchManager.CreateCircle( -0.069724, 0.52938, 0.0, -0.064724, 0.52938, 0.0 )
+Dim skSegment001827 As Object
+Set skSegment001827 = Part.SketchManager.CreateCircle( -0.066191, 0.549, 0.0, -0.061191, 0.549, 0.0 )
+Dim skSegment001828 As Object
+Set skSegment001828 = Part.SketchManager.CreateCircle( 0.11407, 0.28357, 0.0, 0.11907, 0.28357, 0.0 )
+Dim skSegment001829 As Object
+Set skSegment001829 = Part.SketchManager.CreateCircle( 0.60154, 0.16539, 0.0, 0.60654, 0.16539, 0.0 )
+Dim skSegment001830 As Object
+Set skSegment001830 = Part.SketchManager.CreateCircle( -0.48539, -0.31747, 0.0, -0.48039, -0.31747, 0.0 )
+Dim skSegment001831 As Object
+Set skSegment001831 = Part.SketchManager.CreateCircle( -0.5281, 0.41949, 0.0, -0.5231, 0.41949, 0.0 )
+Dim skSegment001832 As Object
+Set skSegment001832 = Part.SketchManager.CreateCircle( 0.43869, 0.23524, 0.0, 0.44369, 0.23524, 0.0 )
+Dim skSegment001833 As Object
+Set skSegment001833 = Part.SketchManager.CreateCircle( -0.11157, -0.3848, 0.0, -0.10657, -0.3848, 0.0 )
+Dim skSegment001834 As Object
+Set skSegment001834 = Part.SketchManager.CreateCircle( -0.12679, -0.37192, 0.0, -0.12179, -0.37192, 0.0 )
+Dim skSegment001835 As Object
+Set skSegment001835 = Part.SketchManager.CreateCircle( -0.53163, 0.39987, 0.0, -0.52663, 0.39987, 0.0 )
+Dim skSegment001836 As Object
+Set skSegment001836 = Part.SketchManager.CreateCircle( 0.40933, 0.16962, 0.0, 0.41433, 0.16962, 0.0 )
+Dim skSegment001837 As Object
+Set skSegment001837 = Part.SketchManager.CreateCircle( -0.57622, 0.34712, 0.0, -0.57122, 0.34712, 0.0 )
+Dim skSegment001838 As Object
+Set skSegment001838 = Part.SketchManager.CreateCircle( -0.1654, -0.29407, 0.0, -0.1604, -0.29407, 0.0 )
+Dim skSegment001839 As Object
+Set skSegment001839 = Part.SketchManager.CreateCircle( -0.18062, -0.2812, 0.0, -0.17562, -0.2812, 0.0 )
+Dim skSegment001840 As Object
+Set skSegment001840 = Part.SketchManager.CreateCircle( 0.43978, 0.14388, 0.0, 0.44478, 0.14388, 0.0 )
+Dim skSegment001841 As Object
+Set skSegment001841 = Part.SketchManager.CreateCircle( 0.10565, 0.042002, 0.0, 0.11065, 0.042002, 0.0 )
+Dim skSegment001842 As Object
+Set skSegment001842 = Part.SketchManager.CreateCircle( 0.095047, -0.016861, 0.0, 0.10005, -0.016861, 0.0 )
+Dim skSegment001843 As Object
+Set skSegment001843 = Part.SketchManager.CreateCircle( -0.57975, 0.3275, 0.0, -0.57475, 0.3275, 0.0 )
+Dim skSegment001844 As Object
+Set skSegment001844 = Part.SketchManager.CreateCircle( -0.27307, -0.11262, 0.0, -0.26807, -0.11262, 0.0 )
+Dim skSegment001845 As Object
+Set skSegment001845 = Part.SketchManager.CreateCircle( -0.26953, -0.093, 0.0, -0.26453, -0.093, 0.0 )
+Dim skSegment001846 As Object
+Set skSegment001846 = Part.SketchManager.CreateCircle( -0.25077, -0.08625, 0.0, -0.24577, -0.08625, 0.0 )
+Dim skSegment001847 As Object
+Set skSegment001847 = Part.SketchManager.CreateCircle( -0.266, -0.073379, 0.0, -0.261, -0.073379, 0.0 )
+Dim skSegment001848 As Object
+Set skSegment001848 = Part.SketchManager.CreateCircle( 0.24704, -0.43925, 0.0, 0.25204, -0.43925, 0.0 )
+Dim skSegment001849 As Object
+Set skSegment001849 = Part.SketchManager.CreateCircle( 0.25873, -0.47174, 0.0, 0.26373, -0.47174, 0.0 )
+Dim skSegment001850 As Object
+Set skSegment001850 = Part.SketchManager.CreateCircle( 0.27395, -0.48461, 0.0, 0.27895, -0.48461, 0.0 )
+Dim skSegment001851 As Object
+Set skSegment001851 = Part.SketchManager.CreateCircle( 0.29271, -0.47786, 0.0, 0.29771, -0.47786, 0.0 )
+Dim skSegment001852 As Object
+Set skSegment001852 = Part.SketchManager.CreateCircle( 0.5159, 0.079529, 0.0, 0.5209, 0.079529, 0.0 )
+Dim skSegment001853 As Object
+Set skSegment001853 = Part.SketchManager.CreateCircle( 0.70567, -0.035679, 0.0, 0.71067, -0.035679, 0.0 )
+Dim skSegment001854 As Object
+Set skSegment001854 = Part.SketchManager.CreateCircle( 0.7209, -0.04855, 0.0, 0.7259, -0.04855, 0.0 )
+Dim skSegment001855 As Object
+Set skSegment001855 = Part.SketchManager.CreateCircle( -0.60911, 0.26189, 0.0, -0.60411, 0.26189, 0.0 )
+Dim skSegment001856 As Object
+Set skSegment001856 = Part.SketchManager.CreateCircle( -0.61265, 0.24227, 0.0, -0.60765, 0.24227, 0.0 )
+Dim skSegment001857 As Object
+Set skSegment001857 = Part.SketchManager.CreateCircle( -0.29916, -0.4523, 0.0, -0.29416, -0.4523, 0.0 )
+Dim skSegment001858 As Object
+Set skSegment001858 = Part.SketchManager.CreateCircle( -0.64201, 0.17666, 0.0, -0.63701, 0.17666, 0.0 )
+Dim skSegment001859 As Object
+Set skSegment001859 = Part.SketchManager.CreateCircle( 0.47786, -0.52134, 0.0, 0.48286, -0.52134, 0.0 )
+Dim skSegment001860 As Object
+Set skSegment001860 = Part.SketchManager.CreateCircle( 0.47433, -0.54096, 0.0, 0.47933, -0.54096, 0.0 )
+Dim skSegment001861 As Object
+Set skSegment001861 = Part.SketchManager.CreateCircle( 0.48955, -0.55383, 0.0, 0.49455, -0.55383, 0.0 )
+Dim skSegment001862 As Object
+Set skSegment001862 = Part.SketchManager.CreateCircle( 0.47079, -0.56058, 0.0, 0.47579, -0.56058, 0.0 )
+Dim skSegment001863 As Object
+Set skSegment001863 = Part.SketchManager.CreateCircle( -0.06262, -0.69747, 0.0, -0.05762, -0.69747, 0.0 )
+Dim skSegment001864 As Object
+Set skSegment001864 = Part.SketchManager.CreateCircle( -0.047394, -0.71034, 0.0, -0.042394, -0.71034, 0.0 )
+Dim skSegment001865 As Object
+Set skSegment001865 = Part.SketchManager.CreateCircle( -0.050928, -0.72996, 0.0, -0.045928, -0.72996, 0.0 )
+Dim skSegment001866 As Object
+Set skSegment001866 = Part.SketchManager.CreateCircle( -0.031885, -0.72288, 0.0, -0.026885, -0.72288, 0.0 )
+Dim skSegment001867 As Object
+Set skSegment001867 = Part.SketchManager.CreateCircle( -0.65261, 0.11779, 0.0, -0.64761, 0.11779, 0.0 )
+Dim skSegment001868 As Object
+Set skSegment001868 = Part.SketchManager.CreateCircle( -0.028588, -0.70353, 0.0, -0.023588, -0.70353, 0.0 )
+Dim skSegment001869 As Object
+Set skSegment001869 = Part.SketchManager.CreateCircle( -0.013355, -0.7164, 0.0, -0.0083549, -0.7164, 0.0 )
+Dim skSegment001870 As Object
+Set skSegment001870 = Part.SketchManager.CreateCircle( -0.016604, -0.73568, 0.0, -0.011604, -0.73568, 0.0 )
+Dim skSegment001871 As Object
+Set skSegment001871 = Part.SketchManager.CreateCircle( 0.0018811, -0.72925, 0.0, 0.0068811, -0.72925, 0.0 )
+Dim skSegment001872 As Object
+Set skSegment001872 = Part.SketchManager.CreateCircle( -0.65968, 0.078553, 0.0, -0.65468, 0.078553, 0.0 )
+Dim skSegment001873 As Object
+Set skSegment001873 = Part.SketchManager.CreateCircle( -0.66674, 0.039311, 0.0, -0.66174, 0.039311, 0.0 )
+Dim skSegment001874 As Object
+Set skSegment001874 = Part.SketchManager.CreateCircle( -0.67734, -0.019552, 0.0, -0.67234, -0.019552, 0.0 )
+Dim skSegment001875 As Object
+Set skSegment001875 = Part.SketchManager.CreateCircle( -0.68795, -0.078414, 0.0, -0.68295, -0.078414, 0.0 )
+Dim skSegment001876 As Object
+Set skSegment001876 = Part.SketchManager.CreateCircle( -0.63547, -0.37147, 0.0, -0.63047, -0.37147, 0.0 )
+Dim skSegment001877 As Object
+Set skSegment001877 = Part.SketchManager.CreateCircle( -0.62024, -0.38434, 0.0, -0.61524, -0.38434, 0.0 )
+Dim skSegment001878 As Object
+Set skSegment001878 = Part.SketchManager.CreateCircle( -0.60148, -0.37759, 0.0, -0.59648, -0.37759, 0.0 )
+Dim skSegment001879 As Object
+Set skSegment001879 = Part.SketchManager.CreateCircle( -0.60502, -0.39721, 0.0, -0.60002, -0.39721, 0.0 )
+Dim skSegment001880 As Object
+Set skSegment001880 = Part.SketchManager.CreateCircle( -0.58626, -0.39046, 0.0, -0.58126, -0.39046, 0.0 )
+Dim skSegment001881 As Object
+Set skSegment001881 = Part.SketchManager.CreateCircle( -0.58979, -0.41008, 0.0, -0.58479, -0.41008, 0.0 )
+Dim skSegment001882 As Object
+Set skSegment001882 = Part.SketchManager.CreateCircle( -0.57103, -0.40333, 0.0, -0.56603, -0.40333, 0.0 )
+Dim skSegment001883 As Object
+Set skSegment001883 = Part.SketchManager.CreateCircle( -0.57457, -0.42295, 0.0, -0.56957, -0.42295, 0.0 )
+Dim skSegment001884 As Object
+Set skSegment001884 = Part.SketchManager.CreateCircle( -0.59332, -0.4297, 0.0, -0.58832, -0.4297, 0.0 )
+Dim skSegment001885 As Object
+Set skSegment001885 = Part.SketchManager.CreateCircle( -0.5781, -0.44257, 0.0, -0.5731, -0.44257, 0.0 )
+Dim skSegment001886 As Object
+Set skSegment001886 = Part.SketchManager.CreateCircle( -0.55934, -0.43582, 0.0, -0.55434, -0.43582, 0.0 )
+Dim skSegment001887 As Object
+Set skSegment001887 = Part.SketchManager.CreateCircle( -0.56287, -0.45544, 0.0, -0.55787, -0.45544, 0.0 )
+Dim skSegment001888 As Object
+Set skSegment001888 = Part.SketchManager.CreateCircle( -0.54411, -0.44869, 0.0, -0.53911, -0.44869, 0.0 )
+Dim skSegment001889 As Object
+Set skSegment001889 = Part.SketchManager.CreateCircle( -0.54765, -0.46831, 0.0, -0.54265, -0.46831, 0.0 )
+Dim skSegment001890 As Object
+Set skSegment001890 = Part.SketchManager.CreateCircle( -0.52889, -0.46156, 0.0, -0.52389, -0.46156, 0.0 )
+Dim skSegment001891 As Object
+Set skSegment001891 = Part.SketchManager.CreateCircle( -0.53242, -0.48118, 0.0, -0.52742, -0.48118, 0.0 )
+Dim skSegment001892 As Object
+Set skSegment001892 = Part.SketchManager.CreateCircle( 0.15783, 0.72135, 0.0, 0.16283, 0.72135, 0.0 )
+Dim skSegment001893 As Object
+Set skSegment001893 = Part.SketchManager.CreateCircle( -0.55118, -0.48793, 0.0, -0.54618, -0.48793, 0.0 )
+Dim skSegment001894 As Object
+Set skSegment001894 = Part.SketchManager.CreateCircle( -0.53596, -0.50081, 0.0, -0.53096, -0.50081, 0.0 )
+Dim skSegment001895 As Object
+Set skSegment001895 = Part.SketchManager.CreateCircle( -0.5172, -0.49406, 0.0, -0.5122, -0.49406, 0.0 )
+Dim skSegment001896 As Object
+Set skSegment001896 = Part.SketchManager.CreateCircle( -0.52073, -0.51368, 0.0, -0.51573, -0.51368, 0.0 )
+Dim skSegment001897 As Object
+Set skSegment001897 = Part.SketchManager.CreateCircle( -0.50197, -0.50693, 0.0, -0.49697, -0.50693, 0.0 )
+Dim skSegment001898 As Object
+Set skSegment001898 = Part.SketchManager.CreateCircle( -0.50551, -0.52655, 0.0, -0.50051, -0.52655, 0.0 )
+Dim skSegment001899 As Object
+Set skSegment001899 = Part.SketchManager.CreateCircle( 0.055038, 0.73966, 0.0, 0.060038, 0.73966, 0.0 )
+Dim skSegment001900 As Object
+Set skSegment001900 = Part.SketchManager.CreateCircle( 0.03703, 0.7329, 0.0, 0.04203, 0.7329, 0.0 )
+Dim skSegment001901 As Object
+Set skSegment001901 = Part.SketchManager.CreateCircle( 0.033568, 0.71333, 0.0, 0.038568, 0.71333, 0.0 )
+Dim skSegment001902 As Object
+Set skSegment001902 = Part.SketchManager.CreateCircle( 0.01834, 0.7262, 0.0, 0.02334, 0.7262, 0.0 )
+Dim skSegment001903 As Object
+Set skSegment001903 = Part.SketchManager.CreateCircle( 0.72225, 0.15378, 0.0, 0.72725, 0.15378, 0.0 )
+Dim skSegment001904 As Object
+Set skSegment001904 = Part.SketchManager.CreateCircle( 0.73945, -0.041762, 0.0, 0.74445, -0.041762, 0.0 )
+Dim skSegment001905 As Object
+Set skSegment001905 = Part.SketchManager.CreateCircle( 0.73588, -0.061376, 0.0, 0.74088, -0.061376, 0.0 )
+Dim skSegment001906 As Object
+Set skSegment001906 = Part.SketchManager.CreateCircle( 0.71733, -0.068163, 0.0, 0.72233, -0.068163, 0.0 )
+Dim skSegment001907 As Object
+Set skSegment001907 = Part.SketchManager.CreateCircle( 0.73254, -0.081033, 0.0, 0.73754, -0.081033, 0.0 )
+Dim skSegment001908 As Object
+Set skSegment001908 = Part.SketchManager.CreateCircle( 0.71382, -0.087789, 0.0, 0.71882, -0.087789, 0.0 )
+Dim skSegment001909 As Object
+Set skSegment001909 = Part.SketchManager.CreateCircle( 0.72905, -0.10066, 0.0, 0.73405, -0.10066, 0.0 )
+Dim skSegment001910 As Object
+Set skSegment001910 = Part.SketchManager.CreateCircle( 0.71029, -0.10741, 0.0, 0.71529, -0.10741, 0.0 )
+Dim skSegment001911 As Object
+Set skSegment001911 = Part.SketchManager.CreateCircle( 0.72552, -0.12028, 0.0, 0.73052, -0.12028, 0.0 )
+Dim skSegment001912 As Object
+Set skSegment001912 = Part.SketchManager.CreateCircle( 0.70676, -0.12703, 0.0, 0.71176, -0.12703, 0.0 )
+Dim skSegment001913 As Object
+Set skSegment001913 = Part.SketchManager.CreateCircle( 0.72199, -0.1399, 0.0, 0.72699, -0.1399, 0.0 )
+Dim skSegment001914 As Object
+Set skSegment001914 = Part.SketchManager.CreateCircle( 0.70323, -0.14665, 0.0, 0.70823, -0.14665, 0.0 )
+Dim skSegment001915 As Object
+Set skSegment001915 = Part.SketchManager.CreateCircle( 0.71846, -0.15952, 0.0, 0.72346, -0.15952, 0.0 )
+Dim skSegment001916 As Object
+Set skSegment001916 = Part.SketchManager.CreateCircle( 0.6997, -0.16627, 0.0, 0.7047, -0.16627, 0.0 )
+Dim skSegment001917 As Object
+Set skSegment001917 = Part.SketchManager.CreateCircle( 0.71492, -0.17915, 0.0, 0.71992, -0.17915, 0.0 )
+Dim skSegment001918 As Object
+Set skSegment001918 = Part.SketchManager.CreateCircle( 0.69616, -0.1859, 0.0, 0.70116, -0.1859, 0.0 )
+Dim skSegment001919 As Object
+Set skSegment001919 = Part.SketchManager.CreateCircle( 0.71139, -0.19877, 0.0, 0.71639, -0.19877, 0.0 )
+Dim skSegment001920 As Object
+Set skSegment001920 = Part.SketchManager.CreateCircle( 0.69263, -0.20552, 0.0, 0.69763, -0.20552, 0.0 )
+Dim skSegment001921 As Object
+Set skSegment001921 = Part.SketchManager.CreateCircle( 0.70785, -0.21839, 0.0, 0.71285, -0.21839, 0.0 )
+Dim skSegment001922 As Object
+Set skSegment001922 = Part.SketchManager.CreateCircle( 0.6891, -0.22514, 0.0, 0.6941, -0.22514, 0.0 )
+Dim skSegment001923 As Object
+Set skSegment001923 = Part.SketchManager.CreateCircle( 0.70432, -0.23801, 0.0, 0.70932, -0.23801, 0.0 )
+Dim skSegment001924 As Object
+Set skSegment001924 = Part.SketchManager.CreateCircle( 0.68556, -0.24476, 0.0, 0.69056, -0.24476, 0.0 )
+Dim skSegment001925 As Object
+Set skSegment001925 = Part.SketchManager.CreateCircle( -0.57024, 0.47772, 0.0, -0.56524, 0.47772, 0.0 )
+Dim skSegment001926 As Object
+Set skSegment001926 = Part.SketchManager.CreateCircle( -0.13987, 0.72433, 0.0, -0.13487, 0.72433, 0.0 )
+Dim skSegment001927 As Object
+Set skSegment001927 = Part.SketchManager.CreateCircle( -0.15863, 0.71758, 0.0, -0.15363, 0.71758, 0.0 )
+Dim skSegment001928 As Object
+Set skSegment001928 = Part.SketchManager.CreateCircle( -0.12111, 0.73108, 0.0, -0.11611, 0.73108, 0.0 )
+Dim skSegment001929 As Object
+Set skSegment001929 = Part.SketchManager.CreateCircle( 0.51045, 0.5363, 0.0, 0.51545, 0.5363, 0.0 )
+Dim skSegment001930 As Object
+Set skSegment001930 = Part.SketchManager.CreateCircle( 0.49523, 0.54917, 0.0, 0.50023, 0.54917, 0.0 )
+Dim skSegment001931 As Object
+Set skSegment001931 = Part.SketchManager.CreateCircle( 0.088543, -0.73482, 0.0, 0.093543, -0.73482, 0.0 )
+Dim skSegment001932 As Object
+Set skSegment001932 = Part.SketchManager.CreateCircle( 0.069784, -0.74157, 0.0, 0.074784, -0.74157, 0.0 )
+Dim skSegment001933 As Object
+Set skSegment001933 = Part.SketchManager.CreateCircle( 0.70079, -0.25763, 0.0, 0.70579, -0.25763, 0.0 )
+Dim skSegment001934 As Object
+Set skSegment001934 = Part.SketchManager.CreateCircle( 0.68203, -0.26438, 0.0, 0.68703, -0.26438, 0.0 )
+Dim skSegment001935 As Object
+Set skSegment001935 = Part.SketchManager.CreateCircle( -0.71268, -0.21576, 0.0, -0.70768, -0.21576, 0.0 )
+Dim skSegment001936 As Object
+Set skSegment001936 = Part.SketchManager.CreateCircle( -0.70915, -0.19614, 0.0, -0.70415, -0.19614, 0.0 )
+Dim skSegment001937 As Object
+Set skSegment001937 = Part.SketchManager.CreateCircle( 0.5529, -0.49434, 0.0, 0.5579, -0.49434, 0.0 )
+Dim skSegment001938 As Object
+Set skSegment001938 = Part.SketchManager.CreateCircle( -0.73253, -0.13116, 0.0, -0.72753, -0.13116, 0.0 )
+Dim skSegment001939 As Object
+Set skSegment001939 = Part.SketchManager.CreateCircle( -0.063183, -0.018749, 0.0, -0.058183, -0.018749, 0.0 )
+Dim skSegment001940 As Object
+Set skSegment001940 = Part.SketchManager.CreateCircle( -0.066717, -0.03837, 0.0, -0.061717, -0.03837, 0.0 )
+Dim skSegment001941 As Object
+Set skSegment001941 = Part.SketchManager.CreateCircle( -0.051492, -0.051241, 0.0, -0.046492, -0.051241, 0.0 )
+Dim skSegment001942 As Object
+Set skSegment001942 = Part.SketchManager.CreateCircle( -0.05965, 0.00087194, 0.0, -0.05465, 0.00087194, 0.0 )
+Dim skSegment001943 As Object
+Set skSegment001943 = Part.SketchManager.CreateCircle( -0.14393, 0.11734, 0.0, -0.13893, 0.11734, 0.0 )
+Dim skSegment001944 As Object
+Set skSegment001944 = Part.SketchManager.CreateCircle( -0.083033, 0.065855, 0.0, -0.078033, 0.065855, 0.0 )
+Dim skSegment001945 As Object
+Set skSegment001945 = Part.SketchManager.CreateCircle( 0.35331, 0.44306, 0.0, 0.35831, 0.44306, 0.0 )
+Dim skSegment001946 As Object
+Set skSegment001946 = Part.SketchManager.CreateCircle( 0.33809, 0.45593, 0.0, 0.34309, 0.45593, 0.0 )
+Dim skSegment001947 As Object
+Set skSegment001947 = Part.SketchManager.CreateCircle( 0.36854, 0.43019, 0.0, 0.37354, 0.43019, 0.0 )
+Dim skSegment001948 As Object
+Set skSegment001948 = Part.SketchManager.CreateCircle( 0.365, 0.41057, 0.0, 0.37, 0.41057, 0.0 )
+Dim skSegment001949 As Object
+Set skSegment001949 = Part.SketchManager.CreateCircle( 0.57951, 0.4327, 0.0, 0.58451, 0.4327, 0.0 )
+Dim skSegment001950 As Object
+Set skSegment001950 = Part.SketchManager.CreateCircle( 0.56075, 0.42595, 0.0, 0.56575, 0.42595, 0.0 )
+Dim skSegment001951 As Object
+Set skSegment001951 = Part.SketchManager.CreateCircle( 0.59827, 0.43945, 0.0, 0.60327, 0.43945, 0.0 )
+Dim skSegment001952 As Object
+Set skSegment001952 = Part.SketchManager.CreateCircle( -0.15017, -0.30694, 0.0, -0.14517, -0.30694, 0.0 )
+Dim skSegment001953 As Object
+Set skSegment001953 = Part.SketchManager.CreateCircle( 0.071137, -0.53924, 0.0, 0.076137, -0.53924, 0.0 )
+Dim skSegment001954 As Object
+Set skSegment001954 = Part.SketchManager.CreateCircle( 0.086363, -0.55212, 0.0, 0.091363, -0.55212, 0.0 )
+Dim skSegment001955 As Object
+Set skSegment001955 = Part.SketchManager.CreateCircle( 0.10512, -0.54537, 0.0, 0.11012, -0.54537, 0.0 )
+Dim skSegment001956 As Object
+Set skSegment001956 = Part.SketchManager.CreateCircle( 0.10159, -0.56499, 0.0, 0.10659, -0.56499, 0.0 )
+Dim skSegment001957 As Object
+Set skSegment001957 = Part.SketchManager.CreateCircle( -0.096341, -0.39767, 0.0, -0.091341, -0.39767, 0.0 )
+Dim skSegment001958 As Object
+Set skSegment001958 = Part.SketchManager.CreateCircle( -0.32528, 0.47412, 0.0, -0.32028, 0.47412, 0.0 )
+Dim skSegment001959 As Object
+Set skSegment001959 = Part.SketchManager.CreateCircle( -0.30652, 0.48087, 0.0, -0.30152, 0.48087, 0.0 )
+Dim skSegment001960 As Object
+Set skSegment001960 = Part.SketchManager.CreateCircle( -0.34404, 0.46737, 0.0, -0.33904, 0.46737, 0.0 )
+Dim skSegment001961 As Object
+Set skSegment001961 = Part.SketchManager.CreateCircle( -0.27472, 0.65745, 0.0, -0.26972, 0.65745, 0.0 )
+Dim skSegment001962 As Object
+Set skSegment001962 = Part.SketchManager.CreateCircle( -0.28995, 0.67033, 0.0, -0.28495, 0.67033, 0.0 )
+Dim skSegment001963 As Object
+Set skSegment001963 = Part.SketchManager.CreateCircle( 0.47023, 0.11814, 0.0, 0.47523, 0.11814, 0.0 )
+Dim skSegment001964 As Object
+Set skSegment001964 = Part.SketchManager.CreateCircle( 0.54526, 0.14514, 0.0, 0.55026, 0.14514, 0.0 )
+Dim skSegment001965 As Object
+Set skSegment001965 = Part.SketchManager.CreateCircle( 0.49335, -0.24053, 0.0, 0.49835, -0.24053, 0.0 )
+Dim skSegment001966 As Object
+Set skSegment001966 = Part.SketchManager.CreateCircle( 0.49688, -0.2209, 0.0, 0.50188, -0.2209, 0.0 )
+Dim skSegment001967 As Object
+Set skSegment001967 = Part.SketchManager.CreateCircle( 0.48981, -0.26015, 0.0, 0.49481, -0.26015, 0.0 )
+Dim skSegment001968 As Object
+Set skSegment001968 = Part.SketchManager.CreateCircle( -0.69501, -0.11766, 0.0, -0.69001, -0.11766, 0.0 )
+Dim skSegment001969 As Object
+Set skSegment001969 = Part.SketchManager.CreateCircle( 0.69725, -0.27725, 0.0, 0.70225, -0.27725, 0.0 )
+Dim skSegment001970 As Object
+Set skSegment001970 = Part.SketchManager.CreateCircle( 0.67849, -0.284, 0.0, 0.68349, -0.284, 0.0 )
+Dim skSegment001971 As Object
+Set skSegment001971 = Part.SketchManager.CreateCircle( 0.54034, 0.5099, 0.0, 0.54534, 0.5099, 0.0 )
+Dim skSegment001972 As Object
+Set skSegment001972 = Part.SketchManager.CreateCircle( -0.58163, -0.46219, 0.0, -0.57663, -0.46219, 0.0 )
+Dim skSegment001973 As Object
+Set skSegment001973 = Part.SketchManager.CreateCircle( -0.62377, -0.40396, 0.0, -0.61877, -0.40396, 0.0 )
+Dim skSegment001974 As Object
+Set skSegment001974 = Part.SketchManager.CreateCircle( 0.72579, 0.1734, 0.0, 0.73079, 0.1734, 0.0 )
+Dim skSegment001975 As Object
+Set skSegment001975 = Part.SketchManager.CreateCircle( 0.10862, 0.74034, 0.0, 0.11362, 0.74034, 0.0 )
+Dim skSegment001976 As Object
+Set skSegment001976 = Part.SketchManager.CreateCircle( 0.021683, 0.7456, 0.0, 0.026683, 0.7456, 0.0 )
+Dim skSegment001977 As Object
+Set skSegment001977 = Part.SketchManager.CreateCircle( 0.0030942, 0.73904, 0.0, 0.0080942, 0.73904, 0.0 )
+Dim skSegment001978 As Object
+Set skSegment001978 = Part.SketchManager.CreateCircle( -0.12243, -0.73734, 0.0, -0.11743, -0.73734, 0.0 )
+Dim skSegment001979 As Object
+Set skSegment001979 = Part.SketchManager.CreateCircle( 0.16005, -0.72744, 0.0, 0.16505, -0.72744, 0.0 )
+Dim skSegment001980 As Object
+Set skSegment001980 = Part.SketchManager.CreateCircle( 0.74673, -0.0025577, 0.0, 0.75173, -0.0025577, 0.0 )
+Dim skSegment001981 As Object
+Set skSegment001981 = Part.SketchManager.CreateCircle( -0.74069, -0.079044, 0.0, -0.73569, -0.079044, 0.0 )
+Dim skSegment001982 As Object
+Set skSegment001982 = Part.SketchManager.CreateCircle( 0.1788, -0.72069, 0.0, 0.1838, -0.72069, 0.0 )
+Dim skSegment001983 As Object
+Set skSegment001983 = Part.SketchManager.CreateCircle( 0.31365, -0.65382, 0.0, 0.31865, -0.65382, 0.0 )
+Dim skSegment001984 As Object
+Set skSegment001984 = Part.SketchManager.CreateCircle( 0.32888, -0.66669, 0.0, 0.33388, -0.66669, 0.0 )
+Dim skSegment001985 As Object
+Set skSegment001985 = Part.SketchManager.CreateCircle( 0.16711, -0.6882, 0.0, 0.17211, -0.6882, 0.0 )
+Dim skSegment001986 As Object
+Set skSegment001986 = Part.SketchManager.CreateCircle( 0.12035, -0.55824, 0.0, 0.12535, -0.55824, 0.0 )
+Dim skSegment001987 As Object
+Set skSegment001987 = Part.SketchManager.CreateCircle( 0.11681, -0.57786, 0.0, 0.12181, -0.57786, 0.0 )
+Dim skSegment001988 As Object
+Set skSegment001988 = Part.SketchManager.CreateCircle( 0.096964, -0.49325, 0.0, 0.10196, -0.49325, 0.0 )
+Dim skSegment001989 As Object
+Set skSegment001989 = Part.SketchManager.CreateCircle( 0.061889, -0.39578, 0.0, 0.066889, -0.39578, 0.0 )
+Dim skSegment001990 As Object
+Set skSegment001990 = Part.SketchManager.CreateCircle( -0.69855, -0.13728, 0.0, -0.69355, -0.13728, 0.0 )
+Dim skSegment001991 As Object
+Set skSegment001991 = Part.SketchManager.CreateCircle( 0.0034318, -0.23332, 0.0, 0.0084318, -0.23332, 0.0 )
+Dim skSegment001992 As Object
+Set skSegment001992 = Part.SketchManager.CreateCircle( -0.0082597, -0.20083, 0.0, -0.0032597, -0.20083, 0.0 )
+Dim skSegment001993 As Object
+Set skSegment001993 = Part.SketchManager.CreateCircle( -0.023485, -0.18796, 0.0, -0.018485, -0.18796, 0.0 )
+Dim skSegment001994 As Object
+Set skSegment001994 = Part.SketchManager.CreateCircle( -0.042244, -0.19471, 0.0, -0.037244, -0.19471, 0.0 )
+Dim skSegment001995 As Object
+Set skSegment001995 = Part.SketchManager.CreateCircle( -0.03871, -0.17509, 0.0, -0.03371, -0.17509, 0.0 )
+Dim skSegment001996 As Object
+Set skSegment001996 = Part.SketchManager.CreateCircle( -0.019951, -0.16834, 0.0, -0.014951, -0.16834, 0.0 )
+Dim skSegment001997 As Object
+Set skSegment001997 = Part.SketchManager.CreateCircle( -0.035176, -0.15547, 0.0, -0.030176, -0.15547, 0.0 )
+Dim skSegment001998 As Object
+Set skSegment001998 = Part.SketchManager.CreateCircle( -0.053935, -0.16222, 0.0, -0.048935, -0.16222, 0.0 )
+Dim skSegment001999 As Object
+Set skSegment001999 = Part.SketchManager.CreateCircle( -0.050402, -0.14259, 0.0, -0.045402, -0.14259, 0.0 )
+Dim skSegment002000 As Object
+Set skSegment002000 = Part.SketchManager.CreateCircle( -0.031643, -0.13584, 0.0, -0.026643, -0.13584, 0.0 )

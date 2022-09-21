@@ -7,11 +7,12 @@ import numpy as np
 
 def issue__solidworksMacro():
 
-    radius   = 0.005
-    maxLines = 400    # solidworks macro is very poor, cannot handle more than 1023 lines.
-    macroCmd = "Set skSegment = Part.SketchManager.CreateCircle( "\
-        "{0[0]:.5}, {0[1]:.5}, {0[2]:.5}, {0[3]:.5}, {0[4]:.5}, {0[5]:.5} )\n"\
-        "Part.ClearSelection2 True\n"
+    radius    = 0.005
+    maxLines  = 400    # solidworks macro is very poor, cannot handle more than 1023 lines.
+    macroCmd1 = "Dim skSegment{0:06} As Object\n"
+    macroCmd2 = "Set skSegment{0:06} = Part.SketchManager.CreateCircle( "\
+        "{1[0]:.5}, {1[1]:.5}, {1[2]:.5}, {1[3]:.5}, {1[4]:.5}, {1[5]:.5} )\n"\
+    
     
     # ------------------------------------------------- #
     # --- [1] load shim tray points                 --- #
@@ -35,8 +36,9 @@ def issue__solidworksMacro():
     commands = []
     count    = 0
     for ik, circ in enumerate( circles ):
-        cmd    = macroCmd.format( circ )
-        stack.append( cmd )
+        cmd1   = macroCmd1.format( ik+1 )
+        cmd2   = macroCmd2.format( ik+1, circ )
+        stack.append( cmd1 + cmd2 )
         count += 1
         if ( count == maxLines ):
             commands.append( "".join( stack ) )
