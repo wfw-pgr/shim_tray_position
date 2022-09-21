@@ -8,6 +8,7 @@ import numpy as np
 def issue__solidworksMacro():
 
     radius   = 0.05
+    maxLines = 800    # solidworks macro is very poor, cannot handle more than 1023 lines.
     macroCmd = "Set skSegment = Part.SketchManager.CreateCircle( "\
         "{0[0]:.5}, {0[1]:.5}, {0[2]:.5}, {0[3]:.5}, {0[4]:.5}, {0[5]:.5} )\n"
     
@@ -28,18 +29,26 @@ def issue__solidworksMacro():
     # ------------------------------------------------- #
     # --- [2] issue macro command                   --- #
     # ------------------------------------------------- #
-    stack = []
+    stack    = []
+    commands = []
+    count    = 0
     for ik, circ in enumerate( circles ):
-        cmd   = macroCmd.format( circ )
+        cmd    = macroCmd.format( circ )
         stack.append( cmd )
-    commands = "".join( stack )
+        count += 1
+        if ( count == maxLines ):
+            commands.append( "".join( stack ) )
+            stack = []
+            count = 0
+    commands.append( "".join( stack ) )
 
     # ------------------------------------------------- #
     # --- [3] save in a file                        --- #
     # ------------------------------------------------- #
-    with open( "dat/solidworks_macro.swp_part", "w" ) as f:
-        f.write( commands )
-    
+    outFile = "dat/solidworks_macro_{0:04}.swp_part"
+    for ik,cmd in enumerate(commands):
+        with open( outFile.format(ik+1), "w" ) as f:
+            f.write( cmd )
 
 # ========================================================= #
 # ===   Execution of Pragram                            === #
