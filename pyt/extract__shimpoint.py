@@ -11,8 +11,8 @@ def extract__shimpoint():
 
     
     mshFile = "msh/circle_tray.msh"
-    radius  = 1.650 # unit: [m]
-    epsilon = 5.e-4 #  0.5 [mm]
+    radius  = 1.650*0.5 # unit: [m]
+    epsilon = 5.e-4     #  0.5 [mm]
     
     # ------------------------------------------------- #
     # --- [1] load mesh file                        --- #
