@@ -69,7 +69,7 @@ def extract__shimpoint():
     # ------------------------------------------------- #
     import nkUtilities.save__pointFile as spf
     outFile   = "dat/sector_tray_points.dat"
-    spf.save__pointFile( outFile=outFile, Data=cog )
+    spf.save__pointFile( outFile=outFile, Data=points_ )
     return()
 
 
