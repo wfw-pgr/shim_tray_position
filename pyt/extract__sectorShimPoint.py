@@ -32,7 +32,7 @@ def extract__shimpoint():
     radii   = np.sqrt( points[:,x_]**2 + points[:,y_]**2 )
     theta   = np.arctan2( points[:,y_], points[:,x_] ) * 180.0 / np.pi
     index   = np.where( ( theta >   0.0+eps ) & ( theta <  45.0-eps ) & \
-                        ( radii > 0.225+eps ) & ( radii < 0.855-eps ) )
+                        ( radii > 0.275+eps ) & ( radii < 0.855-eps ) )
     points_ = points[index]
     print( points_.shape, points.shape )
     # radii   = np.sqrt( points[:,x_]**2 + points[:,y_]**2 )
