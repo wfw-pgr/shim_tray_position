@@ -13,7 +13,7 @@ def makeDXF__shimHole():
     x_, y_, z_ = 0, 1, 2
     diameter   = 0.010
     radius     = diameter * 0.5
-    inpFile    = "dat/circle_tray_points.dat"
+    inpFile    = "dat/sector_tray_points.dat"
     outFile    = "msh/shimHole_sketch.dxf"
     
     # ------------------------------------------------- #
