@@ -8,7 +8,7 @@ import numpy as np
 def extract__shimpoint():
 
     x_, y_, z_ = 0, 1, 2
-
+    eps        = 1.e-4
     mshFile    = "msh/sector_tray.msh"
     
     # ------------------------------------------------- #
@@ -18,11 +18,23 @@ def extract__shimpoint():
     mesh    = lms.load__meshio( mshFile=mshFile, elementType="triangle", returnType="dict" )
     points  = mesh["points"]
     cells   = mesh["cells"]
+
+    # ------------------------------------------------- #
+    # --- [2] type-1   cog                          --- #
+    # ------------------------------------------------- #
     cellpt  = points[ cells, : ]
     cog     = np.average( cellpt[ :, :, : ], axis=1 )
-    theta   = np.linspace( 0.0, 2.0*np.pi, 101 )
-    
-    
+
+
+    # ------------------------------------------------- #
+    # --- [3] type-2   omit peripheral              --- #
+    # ------------------------------------------------- #
+    radii   = np.sqrt( points[:,x_]**2 + points[:,y_]**2 )
+    theta   = np.arctan2( points[:,y_], points[:,x_] ) * 180.0 / np.pi
+    index   = np.where( ( theta >   0.0+eps ) & ( theta <  45.0-eps ) & \
+                        ( radii > 0.225+eps ) & ( radii < 0.855-eps ) )
+    points_ = points[index]
+    print( points_.shape, points.shape )
     # radii   = np.sqrt( points[:,x_]**2 + points[:,y_]**2 )
     # extract = points[ ( np.where( radii <= radius - epsilon ) )[0], : ]
     # theta   = np.linspace( 0, 2.0*np.pi, 201 )
@@ -44,7 +56,9 @@ def extract__shimpoint():
     config["plt_xRange"]     = [ -1.2, +1.2 ]
     config["plt_yRange"]     = [ -1.2, +1.2 ]
     fig     = pl1.plot1D( config=config, pngFile=pngFile )
-    fig.add__plot( xAxis=cog[:,x_], yAxis=cog[:,y_], \
+    # fig.add__plot( xAxis=cog[:,x_], yAxis=cog[:,y_], \
+    #                linestyle="none", marker=".", markersize=0.6 )
+    fig.add__plot( xAxis=points_[:,x_], yAxis=points_[:,y_], \
                    linestyle="none", marker=".", markersize=0.6 )
     fig.add__legend()
     fig.set__axis()
