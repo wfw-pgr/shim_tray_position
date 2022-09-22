@@ -57,8 +57,8 @@ if ( __name__=="__main__" ):
         import nkGmshRoutines.assign__meshsize as ams
         meshes = ams.assign__meshsize( meshFile=meshFile, physFile=physFile, dimtags=dimtags )
     else:
-        gmsh.option.setNumber( "Mesh.CharacteristicLengthMin", 0.015 )
-        gmsh.option.setNumber( "Mesh.CharacteristicLengthMax", 0.015 )
+        gmsh.option.setNumber( "Mesh.CharacteristicLengthMin", 0.020 )
+        gmsh.option.setNumber( "Mesh.CharacteristicLengthMax", 0.020 )
 
     # ------------------------------------------------- #
     # --- [4] post process                          --- #
